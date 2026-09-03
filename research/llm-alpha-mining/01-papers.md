@@ -20,7 +20,7 @@
 |------|------|------|
 | ★ [Alpha-GPT: Human-AI Interactive Alpha Mining](https://arxiv.org/abs/2308.00016) | 2023 | 开创"人机交互挖因子"范式:自然语言交易想法 → LLM 翻译为因子表达式 → 回测反馈 → 对话式迭代 |
 | [Alpha-GPT 2.0: Human-in-the-Loop AI for Quantitative Investment](https://scholar.google.com/scholar?q=%22Alpha-GPT+2.0%22+quantitative+investment) | 2024 | 扩展到整条投研流水线(因子→建模→分析)的人机协同 |
-| [Chain-of-Alpha](https://scholar.google.com/scholar?q=%22Chain-of-Alpha%22+formulaic+alpha+mining+LLM) | 2024 | 双链架构:因子生成链 + 因子优化链,主打简单高效的全自动挖掘 |
+| [Chain-of-Alpha](https://arxiv.org/abs/2508.06312) | 2025 | 双链架构:因子生成链 + 因子优化链,主打简单高效的全自动挖掘 |
 | [FAMA: LLM Alpha Mining with Chain-of-Experience](https://scholar.google.com/scholar?q=FAMA+LLM+alpha+mining+chain-of-experience) | 2024 | 引入"经验链":跨股票共享挖掘经验、记住成功案例,被后续 agent 工作广泛引用 |
 | [Automate Strategy Finding with LLM in Quant Investment](https://arxiv.org/abs/2409.06289) | 2024 | 多智能体挖因子 + 多模态数据 + 动态加权组合,Quantpedia 做过专题解读 |
 
