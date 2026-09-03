@@ -1,8 +1,6 @@
 # Research 知识库
 
-量化金融研究资料库。任何 Claude Code 窗口/会话均可调用:让 Claude 读取本目录即可。
-(当前在分支 `claude/quant-finance-research-sites-9mv8gk`;其他窗口使用前先
-`git fetch origin claude/quant-finance-research-sites-9mv8gk && git checkout claude/quant-finance-research-sites-9mv8gk`。)
+量化金融研究资料库,在 master 分支上。任何 Claude Code 窗口/会话打开本仓库(JJwaves/Mao)后,让 Claude 读取 `research/` 目录即可调用。
 
 ## 目录
 

@@ -1,9 +1,7 @@
 # LLM 挖因子(LLM-based Alpha Mining)知识库
 
 > 更新日期:2026-09-03。本文件夹是一个自包含的知识库,可在任何 Claude Code 窗口/会话中直接调用:
-> 让 Claude 读取本文件夹(`research/llm-alpha-mining/`)即可获得该领域的论文全景、方法论和可执行的实操流程。
->
-> **注意**:本文件夹当前在分支 `claude/quant-finance-research-sites-9mv8gk` 上。在其他窗口使用时,先让 Claude 切到该分支(`git fetch origin claude/quant-finance-research-sites-9mv8gk && git checkout claude/quant-finance-research-sites-9mv8gk`),或将该分支合并进 master。
+> 打开本仓库(JJwaves/Mao,master 分支)后,让 Claude 读取本文件夹(`research/llm-alpha-mining/`)即可获得该领域的论文全景、方法论和可执行的实操流程。
 
 ## 文件索引
 
