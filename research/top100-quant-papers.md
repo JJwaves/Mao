@@ -94,6 +94,8 @@
 
 ## 七、LLM × 金融(近两年最热)(53–60)
 
+> 本版块已单独深挖扩展为 50+ 篇的专题文档:[deep-dive-llm-finance.md](./deep-dive-llm-finance.md)
+
 | # | 论文 | 作者 / 年份 | 发表 | 讨论度 | 备注 |
 |---|------|------------|------|--------|------|
 | 53 | [BloombergGPT: A Large Language Model for Finance](https://arxiv.org/abs/2303.17564) | Wu et al., 2023 | arXiv | 1,500+ 引用,媒体刷屏 | 首个大规模金融专用 LLM |
