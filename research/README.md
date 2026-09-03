@@ -10,6 +10,7 @@
 | [deep-dive-llm-finance.md](./deep-dive-llm-finance.md) | LLM × 金融量化深挖(2019–2026):金融 LLM、前视偏差之争、交易智能体、评测基准、开源生态 |
 | [llm-alpha-mining/](./llm-alpha-mining/) | **LLM 挖因子专题知识库**(重点):论文全景、方法拆解、工具栈、可执行的实操手册 |
 | [factor-modeling/](./factor-modeling/) | **因子合成与组合建模知识库**(挖因子的下游):因子合成、ML 建模、风险模型、组合优化、成本与容量 |
+| [nq-futures-top100.md](./nq-futures-top100.md) | **NQ(纳指 E-mini 期货)交易研究 Top 100**:期现价格发现、日内动量/ORB、隔夜漂移、宏观公告、0DTE、E-mini 微观结构与订单流 |
 
 ## llm-alpha-mining/ 快速入口
 
