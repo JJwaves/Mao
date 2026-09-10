@@ -16,3 +16,13 @@
 2026-09-03 | Cognitive Alpha Mining via LLM-Driven Code-Based Evolution | https://arxiv.org/html/2511.18850v2
 2026-09-03 | Differential Machine Learning for 0DTE Options with Stochastic Volatility and Jumps | https://arxiv.org/pdf/2603.07600
 2026-09-03 | 0DTEs: Trading, Gamma Risk and Volatility Propagation | https://westernfinance-portal.org/viewpaper?n=950096
+2026-09-10 | Structural Limits of OHLCV-Based Intraday Signals in MNQ Futures | https://arxiv.org/abs/2605.04004
+2026-09-10 | Volatility Decay and Return Asymmetry in Ultra Short-Dated Index Options | https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5285330
+2026-09-10 | 0DTE Trading Rules | https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4641356
+2026-09-10 | 0DTE Index Options and Market Volatility: How Large is Their Impact? | https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5113405
+2026-09-10 | Do S&P500 Options Increase Market Volatility? Evidence from 0DTEs | https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5641974
+2026-09-10 | The Alpha Illusion: Reported Alpha from LLM Trading Agents | https://arxiv.org/abs/2605.16895
+2026-09-10 | What LLM Trading Agents Actually Do in Production | https://arxiv.org/abs/2609.05663
+2026-09-10 | Predictive Order Flow Imbalance: Cross-Asset Microstructure Alpha | https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7053198
+2026-09-10 | Forecasting High Frequency Order Flow Imbalance Using Hawkes Processes | https://arxiv.org/abs/2408.03594
+2026-09-10 | When Does Order Flow Matter? State-Dependent L2 Liquidity-State Transitions in Crypto Futures | https://arxiv.org/html/2607.09230v1
