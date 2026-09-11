@@ -26,3 +26,14 @@
 2026-09-10 | Predictive Order Flow Imbalance: Cross-Asset Microstructure Alpha | https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7053198
 2026-09-10 | Forecasting High Frequency Order Flow Imbalance Using Hawkes Processes | https://arxiv.org/abs/2408.03594
 2026-09-10 | When Does Order Flow Matter? State-Dependent L2 Liquidity-State Transitions in Crypto Futures | https://arxiv.org/html/2607.09230v1
+2026-09-11 | Artificial Intelligence in Equity and Crypto Markets: Progress, Profitability Evidence, and the Limits of Automated Investing | arXiv q-fin 2026-09
+2026-09-11 | Convex Modeling of Price Cross-Impact over Time | arXiv q-fin.CP 2026-09
+2026-09-11 | Intraday Limit Order Price Change Transition Dynamics Across Market Capitalizations Through Markov Analysis | arXiv 2026
+2026-09-11 | Forecasting Intraday Volume in Equity Markets with Machine Learning | https://arxiv.org/pdf/2505.08180
+2026-09-11 | Post-FOMC Drift in the Equity Options Market | https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5464630
+2026-09-11 | The Pre-FOMC Drift in Long-Term Treasury Bonds | https://en.saif.sjtu.edu.cn/junpan/FOMC_new.pdf
+2026-09-11 | The Pre-FOMC Announcement Drift and Private Information: Kyle Meets Macro-Finance | https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3644386
+2026-09-11 | Forecasting Realized Volatility with Tree-Based HAR-Type Models Incorporating Macroeconomic Uncertainty | https://onlinelibrary.wiley.com/doi/10.1002/for.70164
+2026-09-11 | A Machine Learning Approach to Volatility Forecasting | https://arxiv.org/pdf/2601.13014
+2026-09-11 | Advances in Forecasting Realized Volatility: A Review of Methodologies | https://link.springer.com/article/10.1186/s40854-025-00809-5
+2026-09-11 | On the Realized Volatility Forecasting Based on Hybrid Model Integrating HAR with Machine Learning | https://ideas.repec.org/a/kap/compec/v67y2026i4d10.1007_s10614-025-10980-7.html
