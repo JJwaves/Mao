@@ -37,3 +37,16 @@
 2026-09-11 | A Machine Learning Approach to Volatility Forecasting | https://arxiv.org/pdf/2601.13014
 2026-09-11 | Advances in Forecasting Realized Volatility: A Review of Methodologies | https://link.springer.com/article/10.1186/s40854-025-00809-5
 2026-09-11 | On the Realized Volatility Forecasting Based on Hybrid Model Integrating HAR with Machine Learning | https://ideas.repec.org/a/kap/compec/v67y2026i4d10.1007_s10614-025-10980-7.html
+2026-09-12 | Assessing the Profitability of Intraday Opening Range Breakout Strategies | https://www.sciencedirect.com/science/article/abs/pii/S1544612312000438
+2026-09-12 | Assessing the Profitability of Timely Opening Range Breakout on Index Futures Markets | https://www.researchgate.net/publication/331076454
+2026-09-12 | Deep Limit Order Book Forecasting (LOBFrame) | https://arxiv.org/abs/2403.09267
+2026-09-12 | An Efficient Deep Learning Model to Predict Stock Price Movement Based on Limit Order Book | https://arxiv.org/abs/2505.22678
+2026-09-12 | Deep Learning for Market by Order Data | https://arxiv.org/pdf/2102.08811
+2026-09-12 | Market Making with Deep Reinforcement Learning from Limit Order Books | https://arxiv.org/pdf/2305.15821
+2026-09-12 | Re-evaluating Short- and Long-Term Trend Factors in CTA Replication: A Bayesian Graphical Approach | https://arxiv.org/pdf/2507.15876
+2026-09-12 | Revisiting the Structure of Trend Premia: When Diversification Hides Redundancy | https://arxiv.org/pdf/2510.23150
+2026-09-12 | Trend Following Strategies: A Practical Guide | https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5140633
+2026-09-12 | End-to-End Large Portfolio Optimization for Variance Minimization with Neural Networks through Covariance Cleaning | J. Finance and Data Science 2026
+2026-09-12 | FinStressTS: A Parametric Synthetic Benchmark for Time-Series Forecasting in Finance | KDD 2026
+2026-09-12 | Finance Agent Benchmark: Benchmarking LLMs on Real-World Financial Research Tasks | https://arxiv.org/abs/2508.00828
+2026-09-12 | FinTrace: Trajectory-Level Evaluation of LLM Tool Calling for Long-Horizon Financial Tasks | https://arxiv.org/pdf/2604.10015
