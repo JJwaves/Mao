@@ -50,3 +50,15 @@
 2026-09-12 | FinStressTS: A Parametric Synthetic Benchmark for Time-Series Forecasting in Finance | KDD 2026
 2026-09-12 | Finance Agent Benchmark: Benchmarking LLMs on Real-World Financial Research Tasks | https://arxiv.org/abs/2508.00828
 2026-09-12 | FinTrace: Trajectory-Level Evaluation of LLM Tool Calling for Long-Horizon Financial Tasks | https://arxiv.org/pdf/2604.10015
+2026-09-13 | Diverse Approaches to Optimal Execution Schedule Generation | https://arxiv.org/html/2601.22113v1
+2026-09-13 | Model Predictive Control for Trade Execution | https://arxiv.org/html/2603.28898v1
+2026-09-13 | Right Place, Right Time: Market Simulation-Based RL for Execution Optimisation | https://arxiv.org/html/2510.22206v1
+2026-09-13 | Optimal Execution with Reinforcement Learning | https://arxiv.org/html/2411.06389v1
+2026-09-13 | The Front End of the VIX Term Structure and Forward Realised Volatility | https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6752518
+2026-09-13 | Hierarchical Machine Learning for Variance Risk Premium Estimation | https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6570380
+2026-09-13 | Unpuzzling Volatility Risk Premiums through the Joint SPX/VIX Smile Calibration | https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345556
+2026-09-13 | Equity Returns at the Turn of the Month | Xu & McConnell FAJ
+2026-09-13 | Return Seasonality in Commodity Futures | https://www.sciencedirect.com/science/article/abs/pii/S1059056024002934
+2026-09-13 | XALPHA: A Memory-Driven AI Quant Researcher for Hypothesis-to-Code Alpha Discovery | https://arxiv.org/pdf/2607.08332
+2026-09-13 | Does Intraday High-Frequency Investor Sentiment Help Forecast Stock Returns? | China Finance Review International 2026
+2026-09-13 | Overnight Sentiment and the Intraday Return Dynamics | https://quantpedia.com/overnight-sentiment-and-the-intraday-return-dynamics/
