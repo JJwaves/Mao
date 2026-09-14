@@ -62,3 +62,16 @@
 2026-09-13 | XALPHA: A Memory-Driven AI Quant Researcher for Hypothesis-to-Code Alpha Discovery | https://arxiv.org/pdf/2607.08332
 2026-09-13 | Does Intraday High-Frequency Investor Sentiment Help Forecast Stock Returns? | China Finance Review International 2026
 2026-09-13 | Overnight Sentiment and the Intraday Return Dynamics | https://quantpedia.com/overnight-sentiment-and-the-intraday-return-dynamics/
+2026-09-14 | Not All Factors Crowd Equally: Modeling, Measuring, and Trading on Alpha Decay | https://arxiv.org/abs/2512.11913
+2026-09-14 | RobAlpha: Robustness-Aware Alpha Factor Mining with Adversarial Vulnerability Scoring | https://link.springer.com/chapter/10.1007/978-981-92-3400-4_24
+2026-09-14 | A Forest of Opinions: Multi-Model Ensemble-HMM Voting for Market Regime Shift Detection | https://www.aimspress.com/article/id/69045d2fba35de34708adb5d
+2026-09-14 | Market Regime Detection via Realized Covariances: A Comparison | https://arxiv.org/pdf/2104.03667
+2026-09-14 | Forecasting Intraday Volatility and Densities Using Deep Learning | https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5216864
+2026-09-14 | SpotV2Net: Multivariate Intraday Spot Volatility Forecasting via Vol-of-Vol GAT | https://arxiv.org/pdf/2401.06249
+2026-09-14 | Deep Learning and Transformer Architectures for Volatility Forecasting: US Equity Indices | https://www.mdpi.com/1911-8074/18/12/685
+2026-09-14 | DeepVol: Volatility Forecasting from High-Frequency Data with Dilated Causal Convolutions | https://pmc.ncbi.nlm.nih.gov/articles/PMC11473055/
+2026-09-14 | A Model for Queue Position Valuation in a Limit Order Book | https://moallemi.com/ciamac/papers/queue-value-2016.pdf
+2026-09-14 | KANFormer: Predicting Fill Probabilities via Survival Analysis in Limit Order Books | https://arxiv.org/pdf/2512.05734
+2026-09-14 | Do Better Volatility Forecasts Lead to Better Portfolios? Evidence from Graph Neural Networks | https://arxiv.org/pdf/2605.19278
+2026-09-14 | A Distillation-Based Future-Aware Graph Neural Network for Stock Trend Prediction | https://arxiv.org/pdf/2502.10776
+2026-09-14 | Structure Over Signal: A Globalized Approach to Multi-Relational GNNs for Stock Prediction | https://arxiv.org/pdf/2510.10775
