@@ -75,3 +75,17 @@
 2026-09-14 | Do Better Volatility Forecasts Lead to Better Portfolios? Evidence from Graph Neural Networks | https://arxiv.org/pdf/2605.19278
 2026-09-14 | A Distillation-Based Future-Aware Graph Neural Network for Stock Trend Prediction | https://arxiv.org/pdf/2502.10776
 2026-09-14 | Structure Over Signal: A Globalized Approach to Multi-Relational GNNs for Stock Prediction | https://arxiv.org/pdf/2510.10775
+2026-09-15 | Liquidity Provision to Leveraged ETFs and Equity Options Rebalancing Flows | https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3925725
+2026-09-15 | The Market Impact of Leveraged ETFs: A Survey of the Literature | http://www.aimspress.com/article/doi/10.3934/QFE.2024031
+2026-09-15 | Do Leveraged ETFs Really Amplify Late-Day Returns and Volatility? | https://www.sciencedirect.com/science/article/abs/pii/S1386418117302604
+2026-09-15 | The Subtle Interplay between Square-Root Impact, Order Imbalance & Volatility | https://arxiv.org/abs/2506.07711
+2026-09-15 | Empirical Confirmation of the Square-Root Law in a U.S. Large-Cap Equity | https://arxiv.org/pdf/2606.24019
+2026-09-15 | Revisiting Trade-Sign Long-Memory and Square-Root Law Price Impact | https://arxiv.org/abs/2606.16269
+2026-09-15 | The Self-Driving Portfolio: Agentic Architecture for Institutional Asset Management | https://arxiv.org/pdf/2604.02279
+2026-09-15 | Designing Agentic AI-Based Screening for Portfolio Investment | https://arxiv.org/html/2603.23300v1
+2026-09-15 | AlphaBench: Benchmarking LLMs in Formulaic Alpha Factor Mining | https://iclr.cc/virtual/2026/poster/10008434
+2026-09-15 | Navigating the Alpha Jungle: An LLM-Powered MCTS Framework for Formulaic Alpha Mining | https://arxiv.org/html/2505.11122v2
+2026-09-15 | A Hybrid Approach to Formulaic Alpha Discovery with LLM Assistance | https://link.springer.com/article/10.1007/s11704-025-41061-5
+2026-09-15 | The Night Effect of Intraday Trading: Chinese Gold and Silver Futures | https://www.sciencedirect.com/science/article/abs/pii/S1044028325000110
+2026-09-15 | The Variance Risk Premium over Trading and Nontrading Periods | https://onlinelibrary.wiley.com/doi/full/10.1002/fut.22589
+2026-09-15 | Predicting Realized Variance Out of Sample: Can Anything Beat the Benchmark? | https://arxiv.org/pdf/2506.07928
