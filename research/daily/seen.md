@@ -89,3 +89,17 @@
 2026-09-15 | The Night Effect of Intraday Trading: Chinese Gold and Silver Futures | https://www.sciencedirect.com/science/article/abs/pii/S1044028325000110
 2026-09-15 | The Variance Risk Premium over Trading and Nontrading Periods | https://onlinelibrary.wiley.com/doi/full/10.1002/fut.22589
 2026-09-15 | Predicting Realized Variance Out of Sample: Can Anything Beat the Benchmark? | https://arxiv.org/pdf/2506.07928
+2026-09-16 | Price Impact in Closing Auctions, Opening Auctions, and Continuous Markets | JFQA
+2026-09-16 | Learning Market Making with Closing Auctions | https://arxiv.org/html/2601.17247
+2026-09-16 | Dynamical Regularities of US Equities Opening and Closing Auctions | https://arxiv.org/abs/1802.01921
+2026-09-16 | Painting the Market: Generative Diffusion Models for LOB Simulation and Forecasting | https://arxiv.org/abs/2509.05107
+2026-09-16 | DiffVolume: Diffusion Models for Volume Generation in Limit Order Books | https://arxiv.org/pdf/2508.08698
+2026-09-16 | LOBDIF: Limit Order Book Event Stream Prediction with Diffusion Model | https://link.springer.com/article/10.1007/s41019-025-00328-4
+2026-09-16 | Conformal Prediction for Reliable Stock Selections | https://proceedings.mlr.press/v266/kaya25a.html
+2026-09-16 | Conformal Predictive Portfolio Selection | https://arxiv.org/pdf/2410.16333
+2026-09-16 | A Gentle Introduction to Conformal Time Series Forecasting | https://ideas.repec.org/p/arx/papers/2511.13608.html
+2026-09-16 | Adaptive Test for Jump | https://arxiv.org/html/2605.20828
+2026-09-16 | Jump Detection in High-Frequency Order Prices | https://www.sciencedirect.com/science/article/pii/S0304407625001861
+2026-09-16 | Jump Detection in Financial Asset Prices That Exhibit U-Shape Volatility | https://pith.science/paper/2508.18876
+2026-09-16 | Queuing and Inventories in Limit Order Markets | https://www.sciencedirect.com/science/article/pii/S1386418125000229
+2026-09-16 | Optimal Adaptive Market Making in Perpetual Futures Markets | https://arxiv.org/html/2607.11888
