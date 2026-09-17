@@ -103,3 +103,16 @@
 2026-09-16 | Jump Detection in Financial Asset Prices That Exhibit U-Shape Volatility | https://pith.science/paper/2508.18876
 2026-09-16 | Queuing and Inventories in Limit Order Markets | https://www.sciencedirect.com/science/article/pii/S1386418125000229
 2026-09-16 | Optimal Adaptive Market Making in Perpetual Futures Markets | https://arxiv.org/html/2607.11888
+2026-09-17 | Who Can See the Iceberg's Peak? | https://onlinelibrary.wiley.com/doi/10.1111/jfir.12414
+2026-09-17 | Prediction of Hidden Liquidity in the Limit Order Book of Globex Futures | Journal of Trading
+2026-09-17 | CME Iceberg Order Detection and Prediction | https://arxiv.org/pdf/1909.09495
+2026-09-17 | The Impact of Iceberg Orders in Limit Order Books | https://www.worldscientific.com/doi/10.1142/S2010139217500070
+2026-09-17 | Stock Price Clustering on Option Expiration Dates | https://www.sciencedirect.com/science/article/abs/pii/S0304405X05000577
+2026-09-17 | Expiration-Day Effects: Does Settlement Price Matter? | https://www.sciencedirect.com/science/article/abs/pii/S1059056008000385
+2026-09-17 | Assessing the Benefits of Optimized Agentic AI Systems for Asset Pricing | Koijen & Levy 2026
+2026-09-17 | Do Earnings Call Transcripts Predict Post-Announcement Returns? | https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6695758
+2026-09-17 | LLM-Driven Investment Models: Can LLMs Extract Alpha from Earnings Call Transcripts? | https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6351439
+2026-09-17 | Anonymization and Information Loss | https://arxiv.org/pdf/2511.15364
+2026-09-17 | Pretrained Time-Series Foundation Models for Financial Return Forecasting | https://arxiv.org/abs/2606.27100
+2026-09-17 | Re(Visiting) Time Series Foundation Models in Finance | https://arxiv.org/abs/2511.18578
+2026-09-17 | DELPHYNE: A Pre-Trained Model for General and Financial Time Series | https://arxiv.org/pdf/2506.06288
