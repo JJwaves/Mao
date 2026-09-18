@@ -116,3 +116,17 @@
 2026-09-17 | Pretrained Time-Series Foundation Models for Financial Return Forecasting | https://arxiv.org/abs/2606.27100
 2026-09-17 | Re(Visiting) Time Series Foundation Models in Finance | https://arxiv.org/abs/2511.18578
 2026-09-17 | DELPHYNE: A Pre-Trained Model for General and Financial Time Series | https://arxiv.org/pdf/2506.06288
+2026-09-18 | NQ Gap Fill Strategy: 2791 Days of Data | https://tradingstats.net/gap-fill-strategy/
+2026-09-18 | Rolling Over Equity Futures: A Study in Four Countries | https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3514204
+2026-09-18 | Risk-Aware Reinforcement Learning Reward for Financial Trading | https://arxiv.org/html/2506.04358v1
+2026-09-18 | Decomposable Reward Modeling and Realistic Environment Design for RL-Based Forex Trading | https://arxiv.org/html/2604.00031
+2026-09-18 | Risk-Sensitive RL for Portfolio Optimization under Stochastic Market Dynamics | https://doi.org/10.3390/math14081334
+2026-09-18 | Risk-Averse Policies for Natural Gas Futures Trading Using Distributional RL | https://arxiv.org/pdf/2501.04421
+2026-09-18 | A Risk Management Agent with Uncertainty Quantification for Financial Trading | https://link.springer.com/chapter/10.1007/978-3-032-28997-1_3
+2026-09-18 | FinRL Contests: Benchmarking Data-Driven Financial RL Agents | https://arxiv.org/pdf/2504.02281
+2026-09-18 | FinRL-DeepSeek: LLM-Infused Risk-Sensitive RL for Trading Agents | https://arxiv.org/pdf/2502.07393
+2026-09-18 | PolySwarm: Multi-Agent LLM Framework for Prediction Market Trading and Latency Arbitrage | https://arxiv.org/html/2604.03888v1
+2026-09-18 | An End-to-End LLM Enhanced Trading System | https://arxiv.org/pdf/2502.01574
+2026-09-18 | Machine Learning Goes Global: Cross-Sectional Return Predictability in International Stock Markets | https://www.sciencedirect.com/science/article/abs/pii/S0165188923001318
+2026-09-18 | Machine Learning and the Cross-Section of Emerging Market Stock Returns | https://www.sciencedirect.com/science/article/abs/pii/S1566014123000274
+2026-09-18 | The Hidden Signals: Cross-Sectional Anomalies as Forecasters in Chinese Stock Market | https://ideas.repec.org/a/mes/emfitr/v62y2026i3p812-834.html
