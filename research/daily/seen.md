@@ -130,3 +130,17 @@
 2026-09-18 | Machine Learning Goes Global: Cross-Sectional Return Predictability in International Stock Markets | https://www.sciencedirect.com/science/article/abs/pii/S0165188923001318
 2026-09-18 | Machine Learning and the Cross-Section of Emerging Market Stock Returns | https://www.sciencedirect.com/science/article/abs/pii/S1566014123000274
 2026-09-18 | The Hidden Signals: Cross-Sectional Anomalies as Forecasters in Chinese Stock Market | https://ideas.repec.org/a/mes/emfitr/v62y2026i3p812-834.html
+2026-09-19 | Tick Size, Lot Size, and Liquidity in Futures Trading | https://ideas.repec.org/a/wly/jfutmk/v46y2026i1p43-55.html
+2026-09-19 | Tick Size, Competition for Liquidity Provision, and Price Discovery | https://pubsonline.informs.org/doi/10.1287/mnsc.2022.4663
+2026-09-19 | Supply Chain Propagation of Textual Signals: LLM Embeddings and Cross-Sectional Return Predictability | https://arxiv.org/abs/2606.29290
+2026-09-19 | Cross-Stock Predictability via LLM-Augmented Semantic Networks | https://arxiv.org/html/2604.19476
+2026-09-19 | CrossAlpha: An Annual-Report Benchmark for Cross-Market Factor Research with LLM Agents | https://arxiv.org/pdf/2605.29286
+2026-09-19 | Structured Event Representation and Stock Return Predictability | https://arxiv.org/pdf/2512.19484
+2026-09-19 | Asset Embeddings | https://bfi.uchicago.edu/wp-content/uploads/2025/04/BFI_WP_2025-51.pdf
+2026-09-19 | Broadening the Nasdaq-100: Can Equal Weighting Reduce Concentration? | https://www.nasdaq.com/articles/global-indexes/broadening-nasdaq-100-with-equal-weighting
+2026-09-19 | EarnHFT: Efficient Hierarchical RL for High-Frequency Trading | https://ojs.aaai.org/index.php/AAAI/article/view/29384/30614
+2026-09-19 | HARL-TRADE: Hierarchical Adaptive RL for Second-Level High-Frequency Trading | https://pubs.aip.org/aip/cha/article/36/2/023132/3380328
+2026-09-19 | Hierarchical Reinforced Trader (HRT): A Bi-Level Approach | https://arxiv.org/html/2410.14927
+2026-09-19 | Multi-Agent RL for Financial Market Trading: An Expert-System Approach | https://link.springer.com/chapter/10.1007/978-3-032-19096-3_34
+2026-09-19 | Institutional Adoption and Correlation Dynamics: Bitcoin | https://arxiv.org/pdf/2501.09911
+2026-09-19 | Dynamic Connectedness and Systemic Risk in Global Futures | https://link.springer.com/article/10.1007/s40822-025-00353-8
