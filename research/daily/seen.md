@@ -144,3 +144,16 @@
 2026-09-19 | Multi-Agent RL for Financial Market Trading: An Expert-System Approach | https://link.springer.com/chapter/10.1007/978-3-032-19096-3_34
 2026-09-19 | Institutional Adoption and Correlation Dynamics: Bitcoin | https://arxiv.org/pdf/2501.09911
 2026-09-19 | Dynamic Connectedness and Systemic Risk in Global Futures | https://link.springer.com/article/10.1007/s40822-025-00353-8
+2026-09-20 | Evidence and Behaviour of Support and Resistance Levels in Financial Time Series | https://arxiv.org/abs/2101.07410
+2026-09-20 | Identifying and Evaluating Horizontal Support and Resistance Levels: US Stock Markets | researchgate 233852842
+2026-09-20 | Evaluating Trade Classification Algorithms: BVC vs Tick Rule vs Lee-Ready | https://www.sciencedirect.com/science/article/abs/pii/S1386418115000415
+2026-09-20 | A Test of the Accuracy of the Lee/Ready Trade Classification Algorithm | Odders-White JFM
+2026-09-20 | Comparing Trade Flow Classification Algorithms in the Electronic Era | https://www.quantresearch.org/Panayides_Shohfi_Smith.pdf
+2026-09-20 | Beyond the Last Surprise: Reviving PEAD with Machine Learning and Historical Earnings | https://www.sciencedirect.com/science/article/abs/pii/S1544612325020057
+2026-09-20 | Double Machine Learning: Explaining the Post-Earnings Announcement Drift | JFQA
+2026-09-20 | PEAD.txt: Post-Earnings-Announcement Drift Using Text | JFQA
+2026-09-20 | Enhancing PEAD Measurement with Large Language Models | https://aclanthology.org/2025.finnlp-2.13.pdf
+2026-09-20 | Extracting the Structure of Press Releases for Predicting Earnings Announcement Returns | https://arxiv.org/pdf/2509.24254
+2026-09-20 | Predictability of PEAD with Textual and Contextual Factors of Earnings Calls | https://dl.acm.org/doi/10.1145/3604237.3626861
+2026-09-20 | Extreme Spectral Risk Measures: Futures Clearinghouse Margin Requirements | https://arxiv.org/pdf/1103.5653
+2026-09-20 | Estimating Financial Risk Measures for Futures Positions: A Non-Parametric Approach | https://arxiv.org/pdf/1103.5666
