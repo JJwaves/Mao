@@ -157,3 +157,17 @@
 2026-09-20 | Predictability of PEAD with Textual and Contextual Factors of Earnings Calls | https://dl.acm.org/doi/10.1145/3604237.3626861
 2026-09-20 | Extreme Spectral Risk Measures: Futures Clearinghouse Margin Requirements | https://arxiv.org/pdf/1103.5653
 2026-09-20 | Estimating Financial Risk Measures for Futures Positions: A Non-Parametric Approach | https://arxiv.org/pdf/1103.5666
+2026-09-21 | Why Does Options Market Information Predict Stock Returns? | https://www.sciencedirect.com/science/article/pii/S0304405X25001618
+2026-09-21 | What Does the Individual Option Volatility Smirk Tell Us About Future Equity Returns? | Xing Zhang Zhao JFQA
+2026-09-21 | Option-Implied Variance Asymmetry and the Cross-Section of Stock Returns | https://www.sciencedirect.com/science/article/abs/pii/S0378426619300275
+2026-09-21 | Option-Implied Volatility Measures and Stock Return Predictability | Fu et al Journal of Derivatives
+2026-09-21 | Option-Implied Idiosyncratic Skewness and Expected Returns | https://www.sciencedirect.com/science/article/abs/pii/S0927539825000647
+2026-09-21 | Backtest Overfitting in the Machine Learning Era: OOS Testing Methods | https://www.sciencedirect.com/science/article/abs/pii/S0950705124011110
+2026-09-21 | Interpretable Hypothesis-Driven Trading: Walk-Forward Validation for Microstructure Signals | https://arxiv.org/pdf/2512.12924
+2026-09-21 | Deep Learning for VWAP Execution in Crypto Markets | https://arxiv.org/html/2502.13722v2
+2026-09-21 | Two Kinds of Learning Algorithms for Continuous-Time VWAP Targeting Execution | https://arxiv.org/pdf/2411.06645
+2026-09-21 | Equilibrium Effects of Intraday Order-Splitting Benchmarks | https://arxiv.org/pdf/1803.08336
+2026-09-21 | A Review of VWAP Trading Algorithms | researchgate 387452327
+2026-09-21 | AlphaAgentEvo: Evolution-Oriented Alpha Mining via Self-Evolving Agentic RL | ICLR 2026
+2026-09-21 | AlphaCrafter: A Full-Stack Multi-Agent Framework for Cross-Sectional Quantitative Trading | NJU 2026
+2026-09-21 | The Nasdaq Volatility Index During and After the Bubble | https://www.pm-research.com/content/iijderiv/11/2/9
