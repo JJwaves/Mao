@@ -171,3 +171,16 @@
 2026-09-21 | AlphaAgentEvo: Evolution-Oriented Alpha Mining via Self-Evolving Agentic RL | ICLR 2026
 2026-09-21 | AlphaCrafter: A Full-Stack Multi-Agent Framework for Cross-Sectional Quantitative Trading | NJU 2026
 2026-09-21 | The Nasdaq Volatility Index During and After the Bubble | https://www.pm-research.com/content/iijderiv/11/2/9
+2026-09-22 | Do VLMs Truly Read Candlesticks? Multi-Scale Benchmark | https://arxiv.org/html/2604.12659v1
+2026-09-22 | From Vision to Value: Stock Chart Image-Driven Factors | https://www.sciencedirect.com/science/article/abs/pii/S1544612326001169
+2026-09-22 | VISTA: Vision-Language Inference for Training-Free Stock Time-Series Analysis | https://arxiv.org/html/2505.18570v3
+2026-09-22 | Comparing Vision-Instruct LLMs, Vision-Based DL, and Numeric Models | IJACSA 2025
+2026-09-22 | On the Predictive Role of Large Futures Trades for S&P500 Index Returns (COT) | https://www.sciencedirect.com/science/article/abs/pii/S1042443113000723
+2026-09-22 | Hedging Pressure and Futures Risk Premia | De Roon Nijman Veld JF 2000
+2026-09-22 | Asymmetric S&P 500 Reactions to CPI Surprises in a High-Inflation Environment | https://www.tandfonline.com/doi/abs/10.1080/13504851.2026.2624038
+2026-09-22 | Leverage and Volatility Feedback Effects in High-Frequency Data | Bollerslev Litvinova Tauchen
+2026-09-22 | The Estimation of Leverage Effect with High-Frequency Data | Wang Mykland JASA
+2026-09-22 | Market Opacity and Fragility: Why Liquidity Evaporates When It Is Most Needed | AER 2026 Cespa Vives
+2026-09-22 | Through Stormy Seas: How Fragile Is Liquidity? | https://www.bis.org/publ/work1229.pdf
+2026-09-22 | Explainable Patterns in Cryptocurrency Microstructure | https://arxiv.org/pdf/2602.00776
+2026-09-22 | Hedgers, Funds, and Small Speculators in the Energy Futures Markets (COT) | https://www.sciencedirect.com/science/article/abs/pii/S0140988304000209
