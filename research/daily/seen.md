@@ -184,3 +184,17 @@
 2026-09-22 | Through Stormy Seas: How Fragile Is Liquidity? | https://www.bis.org/publ/work1229.pdf
 2026-09-22 | Explainable Patterns in Cryptocurrency Microstructure | https://arxiv.org/pdf/2602.00776
 2026-09-22 | Hedgers, Funds, and Small Speculators in the Energy Futures Markets (COT) | https://www.sciencedirect.com/science/article/abs/pii/S0140988304000209
+2026-09-23 | The Disappearing Index Effect | Greenwood Sammon HBS WP 23-025
+2026-09-23 | What Happens When a Stock Is Added to the Nasdaq-100 Index? | Montclair digitalcommons
+2026-09-23 | Impact of Changes in the Nasdaq 100 Index Membership | Biktimirov EFMA
+2026-09-23 | Evidence of Crowding on Russell 3000 Reconstitution Events | https://arxiv.org/pdf/2006.07456
+2026-09-23 | Volatility-of-Volatility and Tail Risk Hedging Returns | https://www.sciencedirect.com/science/article/abs/pii/S1386418115000403
+2026-09-23 | VIX Option-Implied Volatility Slope and VIX Futures Returns | https://onlinelibrary.wiley.com/doi/full/10.1002/fut.22317
+2026-09-23 | Predicting VIX with Adaptive Machine Learning | https://www.tandfonline.com/doi/full/10.1080/14697688.2024.2439458
+2026-09-23 | Anomalies and Their Short-Sale Costs | https://onlinelibrary.wiley.com/doi/10.1111/jofi.13501
+2026-09-23 | The Shorting Premium and Asset Pricing Anomalies | Drechsler
+2026-09-23 | Synthetic Lending Rates Predict Subsequent Market Return | https://quantpedia.com/synthetic-lending-rates-predict-subsequent-market-return/
+2026-09-23 | Monetary Policy Shocks and the HF Network Connectedness of Stock Markets | https://www.sciencedirect.com/science/article/pii/S1059056024005501
+2026-09-23 | Constructing High-Frequency Monetary Policy Surprises from SOFR Futures | Fed Notes
+2026-09-23 | ChatGPT in Systematic Investing: Enhancing Risk-Adjusted Returns with LLMs | https://arxiv.org/abs/2510.26228
+2026-09-23 | Large Language Models in Equity Markets: Applications, Techniques, and Insights | Frontiers in AI 2025
