@@ -198,3 +198,15 @@
 2026-09-23 | Constructing High-Frequency Monetary Policy Surprises from SOFR Futures | Fed Notes
 2026-09-23 | ChatGPT in Systematic Investing: Enhancing Risk-Adjusted Returns with LLMs | https://arxiv.org/abs/2510.26228
 2026-09-23 | Large Language Models in Equity Markets: Applications, Techniques, and Insights | Frontiers in AI 2025
+2026-09-24 | Price Discovery and Trading After Hours | Barclay Hendershott
+2026-09-24 | Price Discovery Overnight: Evidence from Pre- and After-Market Trading | mfc3 conference
+2026-09-24 | Tracking Retail Investor Activity (BJZZ) | Journal of Finance 2021
+2026-09-24 | Revisiting Boehmer et al. (2021) | https://arxiv.org/pdf/2403.17095
+2026-09-24 | Identifying Market Maker Trades as Retail from TAQ | https://microstructure.exchange/papers/BoehmerJonesAlgorithmPaper20221125.pdf
+2026-09-24 | Seasonality in the Cross-Section of Stock Returns | Heston Sadka JFE 2008
+2026-09-24 | Seasonality in the Cross Section: The International Evidence | Heston Sadka
+2026-09-24 | Seasonality in the Cross Section: Advanced vs Emerging Markets | https://www.sciencedirect.com/science/article/abs/pii/S092753981830077X
+2026-09-24 | The Information Cycle and Return Seasonality | https://paperswithbacktest.com/strategies/the-information-cycle-and-return-seasonality
+2026-09-24 | Agentic Quantitative Trading: A Survey of Workflows, Systems, and Evaluation | https://arxiv.org/pdf/2608.31041
+2026-09-24 | Agentic Empirical Asset Pricing: Methodological Foundations | https://arxiv.org/pdf/2609.00731
+2026-09-24 | Hubble: LLM-Driven Agentic Framework for Alpha Factor Discovery | 2026
