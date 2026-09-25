@@ -210,3 +210,18 @@
 2026-09-24 | Agentic Quantitative Trading: A Survey of Workflows, Systems, and Evaluation | https://arxiv.org/pdf/2608.31041
 2026-09-24 | Agentic Empirical Asset Pricing: Methodological Foundations | https://arxiv.org/pdf/2609.00731
 2026-09-24 | Hubble: LLM-Driven Agentic Framework for Alpha Factor Discovery | 2026
+2026-09-25 | A Theory of Price Limits in Futures Markets | Brennan JFE 1986
+2026-09-25 | Do Daily Price Limits Act as Magnets? Treasury Bond Futures | JFSR
+2026-09-25 | The Magnet Effect of Price Limits: High-Frequency Evidence | https://www.sciencedirect.com/science/article/abs/pii/S0927539802000245
+2026-09-25 | The VIX Futures Basis: Evidence and Trading Strategies | Simon Campasano
+2026-09-25 | Trading Signals in VIX Futures | https://arxiv.org/pdf/2103.02016
+2026-09-25 | VIX Constant Maturity Futures Trading Strategy | PLOS ONE 0302289
+2026-09-25 | Factor Timing | Haddad Kozak Santosh NBER w26708
+2026-09-25 | Factor Timing with Portfolio Characteristics | https://academic.oup.com/raps/article/14/1/84/7191017
+2026-09-25 | Multifactor Timing with Deep Learning | https://academic.oup.com/jfec/article/24/3/nbag006/8658726
+2026-09-25 | Timing the Factor Zoo via Deep Learning: Evidence from China | https://onlinelibrary.wiley.com/doi/10.1111/acfi.13033
+2026-09-25 | Resiliency of the Limit Order Book | https://www.sciencedirect.com/science/article/abs/pii/S0165188915001797
+2026-09-25 | Does Speed Matter? HFT for Order Book Resiliency | https://onlinelibrary.wiley.com/doi/full/10.1111/jfir.12229
+2026-09-25 | Limit-Order Book Resiliency after Effective Market Orders | https://arxiv.org/abs/1602.00731
+2026-09-25 | Liquidity Recovery and Market Hysteresis | https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7190939
+2026-09-25 | Can Large Language Models Trade? Testing Financial Theories with LLM Agents | https://arxiv.org/abs/2504.10789
