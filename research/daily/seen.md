@@ -225,3 +225,17 @@
 2026-09-25 | Limit-Order Book Resiliency after Effective Market Orders | https://arxiv.org/abs/1602.00731
 2026-09-25 | Liquidity Recovery and Market Hysteresis | https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7190939
 2026-09-25 | Can Large Language Models Trade? Testing Financial Theories with LLM Agents | https://arxiv.org/abs/2504.10789
+2026-09-26 | Dispersion Trading: Empirical Evidence from U.S. Options Markets | https://www.sciencedirect.com/science/article/abs/pii/S1044028309000593
+2026-09-26 | Volatility Dispersion Trading | Deng UIUC
+2026-09-26 | Dispersion Trading Based on the Explanatory Power of S&P 500 Stock Returns | https://www.mdpi.com/2227-7390/8/9/1627
+2026-09-26 | Cboe Implied Correlation Index Whitepaper | Cboe
+2026-09-26 | The Micro-Price: A High Frequency Estimator of Future Prices | Stoikov SSRN 2970694
+2026-09-26 | High-Resolution Microprice Estimates from Limit Order Book Data | https://arxiv.org/pdf/2411.13594
+2026-09-26 | The Role of Analyst Forecasts in the Momentum Effect | https://www.sciencedirect.com/science/article/abs/pii/S1057521916301314
+2026-09-26 | Analyst Forecast Revision Consistency and Reversal | researchgate 382125812
+2026-09-26 | Dispersion in Analyst Forecasts and the Profitability of Earnings Momentum | Dische SSRN 270036
+2026-09-26 | Analyst Responsiveness and the Post-Earnings-Announcement Drift | https://www.sciencedirect.com/science/article/abs/pii/S0165410108000220
+2026-09-26 | Pre-Holiday Effects: International Evidence on the Decline and Reversal | https://www.sciencedirect.com/science/article/abs/pii/S0261560605000938
+2026-09-26 | Turn-of-Month and Pre-Holiday Effects on Stock Returns: International Evidence | JBF 1992
+2026-09-26 | AlphaSeek: Trajectory-Level Self-Iterative Factor Mining | https://arxiv.org/pdf/2608.13913
+2026-09-26 | AlphaDiverse: Post-Training Local Quantitative Research Agents | https://arxiv.org/html/2609.29014
