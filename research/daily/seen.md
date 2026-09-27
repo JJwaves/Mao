@@ -239,3 +239,17 @@
 2026-09-26 | Turn-of-Month and Pre-Holiday Effects on Stock Returns: International Evidence | JBF 1992
 2026-09-26 | AlphaSeek: Trajectory-Level Self-Iterative Factor Mining | https://arxiv.org/pdf/2608.13913
 2026-09-26 | AlphaDiverse: Post-Training Local Quantitative Research Agents | https://arxiv.org/html/2609.29014
+2026-09-27 | Gamma Fragility | https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3725454
+2026-09-27 | Inferring Latent Market Forces: Evaluating LLM Detection of Gamma Exposure Patterns via Obfuscation Testing | https://arxiv.org/pdf/2512.17923
+2026-09-27 | The Profitability of Pairs Trading Strategies: Distance, Cointegration, and Copula Methods | https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2614233
+2026-09-27 | Pairs Trading: A Copula Approach | https://link.springer.com/article/10.1057/jdhf.2013.1
+2026-09-27 | Performance of Pairs Trading Strategies Based on Various Copula Methods | https://www.mdpi.com/1911-8074/18/9/506
+2026-09-27 | Using Transfer Entropy to Measure Information Flows Between Financial Markets | https://www.researchgate.net/publication/256007512_Using_Transfer_Entropy_to_Measure_Information_Flows_Between_Financial_Markets
+2026-09-27 | Effective Transfer Entropy Approach to Information Flow Between Exchange Rates and Stock Markets | https://www.sciencedirect.com/science/article/abs/pii/S096007791400143X
+2026-09-27 | Information Propagation Across Investor Types: Transfer Entropy Networks in the Korean Equity Market | https://arxiv.org/pdf/2603.20271
+2026-09-27 | Financial Information Theory | https://arxiv.org/pdf/2511.16339
+2026-09-27 | The Earnings Announcement Premium and Trading Volume | https://www.nber.org/papers/w13090
+2026-09-27 | Earnings Announcements and Systematic Risk | https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1786308
+2026-09-27 | The Earnings Announcement Premium Around the Globe | https://webuser.bus.umich.edu/rlehavy/BDLT.pdf
+2026-09-27 | FaVOR: LLM-Based Agentic Framework for Factor Mining via Empirical Validation | https://arxiv.org/pdf/2608.30192
+2026-09-27 | AlphaSchema: Exploring the Space of Trading Semantics for LLM-Based Alpha Mining | https://arxiv.org/pdf/2607.26642
