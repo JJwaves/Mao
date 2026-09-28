@@ -253,3 +253,16 @@
 2026-09-27 | The Earnings Announcement Premium Around the Globe | https://webuser.bus.umich.edu/rlehavy/BDLT.pdf
 2026-09-27 | FaVOR: LLM-Based Agentic Framework for Factor Mining via Empirical Validation | https://arxiv.org/pdf/2608.30192
 2026-09-27 | AlphaSchema: Exploring the Space of Trading Semantics for LLM-Based Alpha Mining | https://arxiv.org/pdf/2607.26642
+2026-09-28 | Event-Based Limit Order Book Simulation under a Neural Hawkes Process: Application in Market-Making | https://arxiv.org/abs/2502.17417
+2026-09-28 | State-Dependent Hawkes Processes and Their Application to Limit Order Book Modelling | https://arxiv.org/pdf/1809.08060
+2026-09-28 | High-Dimensional Hawkes Processes for Limit Order Books | https://www.tandfonline.com/doi/full/10.1080/14697688.2017.1403142
+2026-09-28 | Deep Hawkes Process for High-Frequency Market Making | https://link.springer.com/article/10.1007/s42786-024-00049-8
+2026-09-28 | Limit Order Book Dynamics and Order Size Modelling Using Compound Hawkes Process | https://www.sciencedirect.com/science/article/pii/S1544612324011863
+2026-09-28 | Cross-Asset Market Order Flow, Liquidity, and Price Discovery | https://www.financialresearch.gov/working-papers/files/OFRwp-19_04_cross-asset-market-order-flow-liquidity-and-price-discovery.pdf
+2026-09-28 | The Unintended Consequences of Rebalancing | https://www.nber.org/system/files/working_papers/w33554/revisions/w33554.rev0.pdf
+2026-09-28 | Stock Market Performance and Pension Fund Investment Policy: Rebalancing, Free Float, or Market Timing? | https://www.ijcb.org/journal/v6n2/stock-market-performance-and-pension-fund-investment-policy-rebalancing-free-float-or
+2026-09-28 | Returns and Option Activity over the Option-Expiration Week for S&P 100 Stocks | https://www.sciencedirect.com/science/article/abs/pii/S0378426613003051
+2026-09-28 | Intraday Periodicity and Volatility Persistence in Financial Markets | https://www.sciencedirect.com/science/article/abs/pii/S0927539897000042
+2026-09-28 | Volume-Driven Time-of-Day Effects in Intraday Volatility Models | https://www.oru.se/globalassets/oru-sv/institutioner/hh/workingpapers/workingpapers2025/wp-14-2025.pdf
+2026-09-28 | From Knowing to Doing: A Memory-Controlled Benchmark for LLM Trading Agents on Stock Markets | https://arxiv.org/abs/2605.28359
+2026-09-28 | Toward Reliable Evaluation of LLM-Based Financial Multi-Agent Systems | https://arxiv.org/html/2603.27539v1
