@@ -266,3 +266,15 @@
 2026-09-28 | Volume-Driven Time-of-Day Effects in Intraday Volatility Models | https://www.oru.se/globalassets/oru-sv/institutioner/hh/workingpapers/workingpapers2025/wp-14-2025.pdf
 2026-09-28 | From Knowing to Doing: A Memory-Controlled Benchmark for LLM Trading Agents on Stock Markets | https://arxiv.org/abs/2605.28359
 2026-09-28 | Toward Reliable Evaluation of LLM-Based Financial Multi-Agent Systems | https://arxiv.org/html/2603.27539v1
+2026-09-29 | Predatory Trading | https://pages.stern.nyu.edu/~lpederse/papers/predatory_trading.pdf
+2026-09-29 | Order Anticipation Around Predictable Trades | https://onlinelibrary.wiley.com/doi/10.1111/fima.12255
+2026-09-29 | Brokers and Order Flow Leakage: Evidence from Fire Sales | https://fnce.wharton.upenn.edu/wp-content/uploads/2018/09/DiMaggioBrokers-Order-Flow-Leakage.pdf
+2026-09-29 | Circuit Breakers and Market Volatility: A Theoretical Perspective | JF 1994 Subrahmanyam
+2026-09-29 | The Dark Side of Circuit Breakers | https://onlinelibrary.wiley.com/doi/10.1111/jofi.13310
+2026-09-29 | The Magnet Effect of Circuit Breakers and Its Interactions with Price Limits | https://www.sciencedirect.com/science/article/abs/pii/S0927538X19305128
+2026-09-29 | Circuit Breakers as Market Stability Levers: A Survey | https://onlinelibrary.wiley.com/doi/10.1002/ijfe.1709
+2026-09-29 | A Simple Way to Estimate Bid-Ask Spreads from Daily High and Low Prices | https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1106193
+2026-09-29 | A Simple Estimation of Bid-Ask Spreads from Daily Close, High, and Low Prices | https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2725981
+2026-09-29 | Application of Supervised Learning Models in the Chinese Futures Market | https://arxiv.org/pdf/2303.04581
+2026-09-29 | Stock Price Prediction Using Triple Barrier Labeling and Raw OHLCV Data | https://arxiv.org/pdf/2504.02249
+2026-09-29 | Does Meta Labeling Add to Signal Efficacy? | https://hudsonthames.org/does-meta-labeling-add-to-signal-efficacy-triple-barrier-method/
