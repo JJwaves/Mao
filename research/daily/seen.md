@@ -278,3 +278,16 @@
 2026-09-29 | Application of Supervised Learning Models in the Chinese Futures Market | https://arxiv.org/pdf/2303.04581
 2026-09-29 | Stock Price Prediction Using Triple Barrier Labeling and Raw OHLCV Data | https://arxiv.org/pdf/2504.02249
 2026-09-29 | Does Meta Labeling Add to Signal Efficacy? | https://hudsonthames.org/does-meta-labeling-add-to-signal-efficacy-triple-barrier-method/
+2026-09-30 | Evaporating Liquidity | https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1988706
+2026-09-30 | Short-Term Reversals, Returns to Liquidity Provision and the Costs of Immediacy | https://ideas.repec.org/a/eee/jbfina/v138y2022ics0378426622000309.html
+2026-09-30 | Crowding and Factor Returns | https://acfr.aut.ac.nz/__data/assets/pdf_file/0003/634971/SSRN-id3803954.pdf
+2026-09-30 | Crowded Spaces and Anomalies | https://www.carloalberto.org/wp-content/uploads/2023/06/18_Chincarini_Lazo-Paz_Moneta_Crowding_Anomalies_03_14_23.pdf
+2026-09-30 | Deep Learning Volatility | https://arxiv.org/abs/1901.09647
+2026-09-30 | Operator Deep Smoothing for Implied Volatility | https://arxiv.org/pdf/2406.11520
+2026-09-30 | Volatility Surface Reconstruction using Deep Learning under No-Arbitrage Constraints | https://arxiv.org/pdf/2605.24031
+2026-09-30 | Empirical Evidence on the Stock-Bond Correlation | https://www.tandfonline.com/doi/full/10.1080/0015198X.2024.2317333
+2026-09-30 | Stock-Bond Return Correlation, Bond Risk Premium Fluctuations, and the Macroeconomy | https://www.nber.org/system/files/working_papers/w27861/revisions/w27861.rev0.pdf
+2026-09-30 | Stock-Bond Return Correlation: Understanding the Changing Behaviour | https://www.sciencedirect.com/science/article/pii/S1042443125001325
+2026-09-30 | Program Trading and Expiration Day Effects | FAJ 1987 Stoll-Whaley
+2026-09-30 | Early Unwindings and Rollovers of Stock Index Futures Arbitrage Programs | https://onlinelibrary.wiley.com/doi/10.1002/fut.3990090203
+2026-09-30 | AQuA: Recursively Self-Improving Quantitative Trading Research Agents | https://arxiv.org/pdf/2608.12841
