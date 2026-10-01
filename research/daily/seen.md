@@ -291,3 +291,18 @@
 2026-09-30 | Program Trading and Expiration Day Effects | FAJ 1987 Stoll-Whaley
 2026-09-30 | Early Unwindings and Rollovers of Stock Index Futures Arbitrage Programs | https://onlinelibrary.wiley.com/doi/10.1002/fut.3990090203
 2026-09-30 | AQuA: Recursively Self-Improving Quantitative Trading Research Agents | https://arxiv.org/pdf/2608.12841
+2026-10-01 | Market Microstructure Invariance: Empirical Hypotheses | https://pages.nes.ru/aobizhaeva/Kyle-Obizhaeva-ECTA-2016-Invariance-with-Supplement.pdf
+2026-10-01 | Diffusive in Plain Sight: An Inconspicuous Law of Market Impact | https://arxiv.org/pdf/2606.07059
+2026-10-01 | Trading Costs and Market Microstructure Invariance: Identifying Bet Activity | https://www.nasdaq.com/docs/2024/02/09/Trading-Costs-and-Market-Microstructure.pdf
+2026-10-01 | Measuring Economic Policy Uncertainty | https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2198490
+2026-10-01 | Generation of Synthetic Financial Time Series by Diffusion Models | https://arxiv.org/pdf/2410.18897
+2026-10-01 | Deep Generative Models for Synthetic Financial Data | https://arxiv.org/html/2512.21798
+2026-10-01 | High-Quality Synthetic Financial Time-Series using a GAN-Diffusion Framework | https://arxiv.org/html/2605.27113v1
+2026-10-01 | Deep Generative Modeling for Financial Time Series with Application in VaR | https://arxiv.org/html/2401.10370v1
+2026-10-01 | Anticipating Uncertainty: Straddles Around Earnings Announcements | https://www.ruf.rice.edu/~yxing/straddle_201305_03.pdf
+2026-10-01 | Earnings Announcements and Option Returns | https://www.sciencedirect.com/science/article/abs/pii/S0927539816300743
+2026-10-01 | Pricing Event Risk: Evidence from Concave Implied Volatility Curves | https://academic.oup.com/rof/article/29/4/963/8079062
+2026-10-01 | Anticipating Jumps: Decomposition of Straddle Price | https://www.sciencedirect.com/science/article/abs/pii/S0378426622003351
+2026-10-01 | Returns and Order Flow Imbalances: Intraday Dynamics and Macroeconomic News Effects | https://arxiv.org/pdf/2508.06788
+2026-10-01 | Day-of-the-Week Effect: A Meta-Analysis | https://link.springer.com/article/10.1007/s40822-024-00293-9
+2026-10-01 | Day of the Week and the Cross-Section of Returns | https://www.aeaweb.org/conference/2017/preliminary/paper/fNkhhEd6
