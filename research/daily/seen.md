@@ -306,3 +306,13 @@
 2026-10-01 | Returns and Order Flow Imbalances: Intraday Dynamics and Macroeconomic News Effects | https://arxiv.org/pdf/2508.06788
 2026-10-01 | Day-of-the-Week Effect: A Meta-Analysis | https://link.springer.com/article/10.1007/s40822-024-00293-9
 2026-10-01 | Day of the Week and the Cross-Section of Returns | https://www.aeaweb.org/conference/2017/preliminary/paper/fNkhhEd6
+2026-10-02 | Momentum Crashes | https://www.kentdaniel.net/papers/published/mom12.pdf
+2026-10-02 | Momentum Crashes and Variations to Market Liquidity | https://e-space.mmu.ac.uk/633394/1/Momentum%20crashes%20IJFE.pdf
+2026-10-02 | Carry | https://pages.stern.nyu.edu/~lpederse/papers/Carry.pdf
+2026-10-02 | Dealing with the Inventory Risk: A Solution to the Market Making Problem | https://arxiv.org/pdf/1105.3115
+2026-10-02 | Optimal Market Making | https://www.tandfonline.com/doi/abs/10.1080/1350486X.2017.1342552
+2026-10-02 | The Arrival of News and Return Jumps in Stock Markets | https://arxiv.org/pdf/1901.02691
+2026-10-02 | Short Interest and Aggregate Stock Returns | https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2474930
+2026-10-02 | Short Interest and Aggregate Stock Returns: International Evidence | https://academic.oup.com/raps/article/13/4/691/7127046
+2026-10-02 | Short Interest, Macroeconomic Variables and Aggregate Stock Returns | https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3384620
+2026-10-02 | AgonAlpha: Autonomous Alpha Discovery via Prompt Economy and Scalable Agentic Search | https://arxiv.org/pdf/2608.11250
