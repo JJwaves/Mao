@@ -316,3 +316,16 @@
 2026-10-02 | Short Interest and Aggregate Stock Returns: International Evidence | https://academic.oup.com/raps/article/13/4/691/7127046
 2026-10-02 | Short Interest, Macroeconomic Variables and Aggregate Stock Returns | https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3384620
 2026-10-02 | AgonAlpha: Autonomous Alpha Discovery via Prompt Economy and Scalable Agentic Search | https://arxiv.org/pdf/2608.11250
+2026-10-03 | Simple Technical Trading Rules and the Stochastic Properties of Stock Returns | https://onlinelibrary.wiley.com/doi/10.1111/j.1540-6261.1992.tb04681.x
+2026-10-03 | Data-Snooping, Technical Trading Rule Performance, and the Bootstrap | https://ideas.repec.org/a/bla/jfinan/v54y1999i5p1647-1691.html
+2026-10-03 | A Reality Check for Data Snooping | https://onlinelibrary.wiley.com/doi/abs/10.1111/1468-0262.00152
+2026-10-03 | Re-Examining the Profitability of Technical Analysis with White's Reality Check | https://homepage.ntu.edu.tw/~ckuan/pdf/snoop01.pdf
+2026-10-03 | What Do We Know About the Profitability of Technical Analysis? | https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-6419.2007.00519.x
+2026-10-03 | The Profitability of Technical Trading Rules in US Futures Markets | https://farmdoc.illinois.edu/assets/marketing/agmas/AgMAS05_04.pdf
+2026-10-03 | The Economics of the Fed Put | https://www.nber.org/system/files/working_papers/w26894/w26894.pdf
+2026-10-03 | Shocking Language: Macroeconomic Effects of Central Bank Communication | JIE 2016 Hansen-McMahon
+2026-10-03 | Transparency and Deliberation Within the FOMC | QJE 2018 Hansen-McMahon-Prat
+2026-10-03 | Decoding Central Bank Communications with Large Language Models | https://www.sciencedirect.com/science/article/pii/S1042443126000417
+2026-10-03 | Mind Your Language: Market Responses to Central Bank Speeches | https://www.sciencedirect.com/science/article/pii/S0304407624002720
+2026-10-03 | Learning Fast or Slow | https://www.aeaweb.org/conference/2019/preliminary/paper/ZKnGb4Zh
+2026-10-03 | The Profitability of Day Trading and the Characteristics of Traders: Taiwan Futures | IRABF Kuo et al.
