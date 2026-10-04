@@ -329,3 +329,14 @@
 2026-10-03 | Mind Your Language: Market Responses to Central Bank Speeches | https://www.sciencedirect.com/science/article/pii/S0304407624002720
 2026-10-03 | Learning Fast or Slow | https://www.aeaweb.org/conference/2019/preliminary/paper/ZKnGb4Zh
 2026-10-03 | The Profitability of Day Trading and the Characteristics of Traders: Taiwan Futures | IRABF Kuo et al.
+2026-10-04 | The Information in Option Volume for Future Stock Prices | https://www.nber.org/system/files/working_papers/w10925/w10925.pdf
+2026-10-04 | The Information in Option Volume for Future Stock Volatility | https://www.researchgate.net/publication/228425329_the_Information_in_Option_Volume_for_Future_Stock_Volatility
+2026-10-04 | Attention-Induced Trading and Returns: Evidence from Robinhood Users | https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3715077
+2026-10-04 | Robinhood, Reddit, and the News | https://www.sciencedirect.com/science/article/pii/S1386418124000478
+2026-10-04 | The Implementation Shortfall: Paper vs. Reality | https://www.cis.upenn.edu/~mkearns/finread/impshort.pdf
+2026-10-04 | Implementation Shortfall with Transitory Price Effects | https://faculty.haas.berkeley.edu/hender/chapter_ELOv5.pdf
+2026-10-04 | Maxing Out: Stocks as Lotteries and the Cross-Section of Expected Returns | https://pages.stern.nyu.edu/~rwhitela/papers/max%20jfe11.pdf
+2026-10-04 | Lottery Demand, Lottery Factor, and Anomalies | https://onlinelibrary.wiley.com/doi/10.1002/rfe.1187
+2026-10-04 | The "Actual Retail Price" of Equity Trades | https://onlinelibrary.wiley.com/doi/full/10.1111/jofi.13467
+2026-10-04 | Competition for Retail Order Flow and Market Quality | https://www.researchgate.net/publication/361235136_Competition_for_Retail_Order_Flow_and_Market_Quality
+2026-10-04 | Navigating the Alpha Jungle: An LLM-Powered MCTS Framework for Formulaic Factor Mining | https://arxiv.org/abs/2505.11122
