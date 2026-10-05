@@ -340,3 +340,16 @@
 2026-10-04 | The "Actual Retail Price" of Equity Trades | https://onlinelibrary.wiley.com/doi/full/10.1111/jofi.13467
 2026-10-04 | Competition for Retail Order Flow and Market Quality | https://www.researchgate.net/publication/361235136_Competition_for_Retail_Order_Flow_and_Market_Quality
 2026-10-04 | Navigating the Alpha Jungle: An LLM-Powered MCTS Framework for Formulaic Factor Mining | https://arxiv.org/abs/2505.11122
+2026-10-05 | A Tale of Two Time Scales: Determining Integrated Volatility with Noisy High-Frequency Data | https://www.princeton.edu/~yacine/twoscales.pdf
+2026-10-05 | Designing Realised Kernels to Measure Ex-Post Variation of Equity Prices in the Presence of Noise | https://public.econ.duke.edu/~get/browse/courses/201/spr10/DOWNLOADS/MicroStructureNoise/BNHS-realised3-2008.pdf
+2026-10-05 | Realised Kernels in Practice: Trades and Quotes | https://public.econ.duke.edu/~get/browse/courses/201/spr12/DOWNLOADS/MicroStructure/bhls_kernels_practice_08.pdf
+2026-10-05 | Intermediary Asset Pricing | https://zhiguohe.net/wp-content/uploads/2023/12/he-krishnamurthy-2013-intermediary-asset-pricing.pdf
+2026-10-05 | Intermediary Asset Pricing: New Evidence from Many Asset Classes | https://mfm.uchicago.edu/wp-content/uploads/2020/07/He-et-al_Intermediary-asset-pricing-New-evidence-from-many-asset-classes.pdf
+2026-10-05 | Financial Intermediaries and the Cross-Section of Asset Returns | https://www.newyorkfed.org/medialibrary/media/research/staff_reports/sr464.pdf
+2026-10-05 | Commonality in Liquidity | https://papers.ssrn.com/sol3/papers.cfm?abstract_id=155187
+2026-10-05 | Market Liquidity and Trading Activity | https://onlinelibrary.wiley.com/doi/10.1111/0022-1082.00335
+2026-10-05 | Inefficiencies in the Pricing of Exchange-Traded Funds | http://www.petajisto.net/papers/etf28.pdf
+2026-10-05 | Retrieval-Augmented Large Language Models for Financial Time Series Forecasting | https://arxiv.org/html/2502.05878v1
+2026-10-05 | FinDER: Financial Dataset for Question Answering and Evaluating RAG | https://arxiv.org/pdf/2504.15800
+2026-10-05 | Rethinking Retrieval: From Traditional RAG to Agentic and Non-Vector Reasoning Systems | https://arxiv.org/abs/2511.18177
+2026-10-05 | Enhancing Financial Sentiment Analysis via Retrieval Augmented Large Language Models | https://arxiv.org/pdf/2310.04027
