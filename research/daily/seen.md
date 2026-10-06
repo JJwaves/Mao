@@ -353,3 +353,13 @@
 2026-10-05 | FinDER: Financial Dataset for Question Answering and Evaluating RAG | https://arxiv.org/pdf/2504.15800
 2026-10-05 | Rethinking Retrieval: From Traditional RAG to Agentic and Non-Vector Reasoning Systems | https://arxiv.org/abs/2511.18177
 2026-10-05 | Enhancing Financial Sentiment Analysis via Retrieval Augmented Large Language Models | https://arxiv.org/pdf/2310.04027
+2026-10-06 | Asset Fire Sales (and Purchases) in Equity Markets | https://www.hbs.edu/ris/download.aspx?name=Asset+Fire+Sales+in+Equity+Markets.pdf
+2026-10-06 | Front-Running of Mutual Fund Fire-Sales | https://www.sciencedirect.com/science/article/abs/pii/S0378426613003440
+2026-10-06 | The 52-Week High and Momentum Investing | https://www.bauer.uh.edu/tgeorge/papers/gh4-paper.pdf
+2026-10-06 | Industry Information and the 52-Week High Effect | https://gattonweb.uky.edu/faculty/lium/52weekhigh.pdf
+2026-10-06 | Stock Price Clustering and Discreteness | https://www.acsu.buffalo.edu/~keechung/MGF743/Readings/Stock%20price%20clustering%20and%20price%20discreteness.pdf
+2026-10-06 | Limit Order Clustering and Price Barriers: Evidence from Euronext | https://efmaefm.org/0efmameetings/efma%20annual%20meetings/2007-Austria/papers/0286.pdf
+2026-10-06 | The Allure of Round Number Prices for Individual Investors | https://cri.georgetown.edu/wp-content/uploads/2025/05/Bloomfield-Chin-Craig-2025-Georgetown-CRI-WP-revised-April-2025.pdf
+2026-10-06 | Limit Order Clustering and Stock Price Movements | https://afajof.org/management/viewp.php?n=131712
+2026-10-06 | The Relation Between Price Changes and Trading Volume: A Survey | https://econpapers.repec.org/RePEc:cup:jfinqa:v:22:y:1987:i:01:p:109-126_01
+2026-10-06 | A Theory of Trading Volume | https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1540-6261.1986.tb02531.x
