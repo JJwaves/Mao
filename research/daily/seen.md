@@ -363,3 +363,14 @@
 2026-10-06 | Limit Order Clustering and Stock Price Movements | https://afajof.org/management/viewp.php?n=131712
 2026-10-06 | The Relation Between Price Changes and Trading Volume: A Survey | https://econpapers.repec.org/RePEc:cup:jfinqa:v:22:y:1987:i:01:p:109-126_01
 2026-10-06 | A Theory of Trading Volume | https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1540-6261.1986.tb02531.x
+2026-10-07 | Investor Psychology and Security Market Under- and Overreactions | https://onlinelibrary.wiley.com/doi/10.1111/0022-1082.00077
+2026-10-07 | A Model of Investor Sentiment | https://nicholasbarberis.github.io/bsv_nonac.pdf
+2026-10-07 | A Unified Theory of Underreaction, Momentum Trading, and Overreaction in Asset Markets | JF 1999 Hong-Stein
+2026-10-07 | A Comprehensive Look at the Empirical Performance of Equity Premium Prediction | https://breesefine7110.tulane.edu/wp-content/uploads/sites/16/2015/10/Goyal-and-Welch-2008.pdf
+2026-10-07 | A Comprehensive Look at the Empirical Performance of Equity Premium Prediction II | https://ideas.repec.org/p/chf/rpseri/rp2185.html
+2026-10-07 | The Long Memory of the Efficient Market | http://www.long-memory.com/other/LilloFarmer2004.pdf
+2026-10-07 | Inferring Microscopic Financial Information from the Long Memory in Market-Order Flow | https://arxiv.org/abs/2301.13505
+2026-10-07 | Event-Time Order-Flow Memory, Operational-Time Impact, and Subordinated Market Observables | https://arxiv.org/html/2609.13715v1
+2026-10-07 | Fusing Narrative Semantics for Financial Volatility Forecasting | https://arxiv.org/pdf/2510.20699
+2026-10-07 | Realised Volatility Forecasting: Machine Learning via Financial Word Embedding | https://arxiv.org/pdf/2108.00480
+2026-10-07 | Capturing Heterogeneity: ML Approaches to Implied Volatility Forecasting | https://www.federalreserve.gov/econres/feds/capturing-heterogeneity-machine-learning-approaches-to-implied-volatility-forecasting.htm
