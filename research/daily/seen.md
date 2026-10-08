@@ -374,3 +374,17 @@
 2026-10-07 | Fusing Narrative Semantics for Financial Volatility Forecasting | https://arxiv.org/pdf/2510.20699
 2026-10-07 | Realised Volatility Forecasting: Machine Learning via Financial Word Embedding | https://arxiv.org/pdf/2108.00480
 2026-10-07 | Capturing Heterogeneity: ML Approaches to Implied Volatility Forecasting | https://www.federalreserve.gov/econres/feds/capturing-heterogeneity-machine-learning-approaches-to-implied-volatility-forecasting.htm
+2026-10-08 | Crashes as Critical Points | https://www.alphaxiv.org/abs/cond-mat/9810071
+2026-10-08 | Everything You Always Wanted to Know About Log Periodic Power Laws for Bubble Modelling | https://mpra.ub.uni-muenchen.de/47869/
+2026-10-08 | Testing for Financial Crashes Using the Log Periodic Power Law Model | https://arxiv.org/pdf/1002.1010
+2026-10-08 | Detection of Chinese Stock Market Bubbles with LPPLS Confidence Indicator | https://arxiv.org/pdf/1905.09640
+2026-10-08 | Optimal Versus Naive Diversification: How Inefficient is the 1/N Portfolio Strategy? | https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1376199
+2026-10-08 | Global Portfolio Optimization (Black-Litterman) | FAJ 1992
+2026-10-08 | A Step-by-Step Guide to the Black-Litterman Model | https://people.duke.edu/~charvey/Teaching/BA453_2006/Idzorek_onBL.pdf
+2026-10-08 | Financial Black Swans Driven by Ultrafast Machine Ecology | https://cdanfort.w3.uvm.edu/csc-reading-group/tivnan-arxiv-flashcrash-2012.pdf
+2026-10-08 | Impact and Recovery Process of Mini Flash Crashes | https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0196920
+2026-10-08 | Ultrafast Extreme Events: Empirical Analysis of Mechanisms and Recovery | https://arxiv.org/pdf/2509.10376
+2026-10-08 | EvolveTrade: Experience-Driven Policy Refinement for Self-Evolving LLM Trading Agents | https://arxiv.org/abs/2609.17632
+2026-10-08 | EVOQUANT: Self-Evolving Verifier-Guided Strategy Optimization | https://arxiv.org/pdf/2607.12455
+2026-10-08 | AlgoEvolve: LLM-Driven Meta-Evolution of Algorithmic Trading Programs | https://arxiv.org/html/2606.26173
+2026-10-08 | Your Agent May Misevolve: Emergent Risks in Self-Evolving LLM Agents | https://arxiv.org/pdf/2509.26354
