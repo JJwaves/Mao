@@ -388,3 +388,17 @@
 2026-10-08 | EVOQUANT: Self-Evolving Verifier-Guided Strategy Optimization | https://arxiv.org/pdf/2607.12455
 2026-10-08 | AlgoEvolve: LLM-Driven Meta-Evolution of Algorithmic Trading Programs | https://arxiv.org/html/2606.26173
 2026-10-08 | Your Agent May Misevolve: Emergent Risks in Self-Evolving LLM Agents | https://arxiv.org/pdf/2509.26354
+2026-10-09 | When Do Stop-Loss Rules Stop Losses? | https://dspace.mit.edu/bitstream/handle/1721.1/114876/Lo_When%20Do%20Stop-Loss.pdf
+2026-10-09 | Determining Optimal Stop-Loss Thresholds via Bayesian Analysis of Drawdown Distributions | https://arxiv.org/pdf/1609.00869
+2026-10-09 | Are Investors Reluctant to Realize Their Losses? | https://faculty.haas.berkeley.edu/odean/papers%20current%20versions/areinvestorsreluctant.pdf
+2026-10-09 | Professional Trader Discipline and Trade Disposition | JFE 2005 Locke-Mann
+2026-10-09 | The Propensity for Local Traders in Futures Markets to Ride Losses | https://www.sciencedirect.com/science/article/abs/pii/S0378426603001948
+2026-10-09 | The Disposition Effect and Underreaction to News | https://pages.stern.nyu.edu/~afrazzin/pdf/The%20Disposition%20Effect%20and%20Underreaction%20to%20news%20-%20Frazzini.pdf
+2026-10-09 | Realization Utility | https://www.nber.org/papers/w14440
+2026-10-09 | What Drives the Disposition Effect? | https://wxiong.mycpanel.princeton.edu/papers/disposition.pdf
+2026-10-09 | Prospect Theory Applications in Finance | https://www.crei.cat/wp-content/uploads/2016/09/barberis.pdf
+2026-10-09 | Fooled by Data-Mining: Real-Life Performance of Market Timing | https://papers.ssrn.com/abstract=2242795
+2026-10-09 | Market Timing with Moving Averages: Anatomy and Performance | https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2585056
+2026-10-09 | Social Media Information and Individual Investor Disposition Effect (Xueqiu) | https://arxiv.org/pdf/2605.05814
+2026-10-09 | FinAgent: A Multimodal Foundation Agent for Financial Trading | https://arxiv.org/abs/2402.18485
+2026-10-09 | FinPos: A Position-Aware Trading Agent System | https://arxiv.org/pdf/2510.27251
