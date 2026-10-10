@@ -402,3 +402,16 @@
 2026-10-09 | Social Media Information and Individual Investor Disposition Effect (Xueqiu) | https://arxiv.org/pdf/2605.05814
 2026-10-09 | FinAgent: A Multimodal Foundation Agent for Financial Trading | https://arxiv.org/abs/2402.18485
 2026-10-09 | FinPos: A Position-Aware Trading Agent System | https://arxiv.org/pdf/2510.27251
+2026-10-10 | What Happened to the Quants in August 2007? | https://web.mit.edu/Alo/www/Papers/august07.pdf
+2026-10-10 | Liquidity, Information, and Infrequently Traded Stocks (PIN) | EKOP JF 1996
+2026-10-10 | Is Information Risk a Determinant of Asset Returns? | EHO JF 2002
+2026-10-10 | Order Imbalance and Individual Stock Returns: Theory and Evidence | https://papers.ssrn.com/sol3/papers.cfm?abstract_id=354122
+2026-10-10 | Shocks to Order Flow Volatility and Stock Returns | https://www.anderson.ucla.edu/documents/areas/fac/finance/voib7.pdf
+2026-10-10 | Power-Law Tails in the Distribution of Order Imbalance | https://arxiv.org/pdf/1707.05550
+2026-10-10 | Basis-Momentum | https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.12738
+2026-10-10 | Relative Basis and the Expected Returns of Commodity Futures | https://www.aeaweb.org/conference/2025/program/paper/yzD5hdsG
+2026-10-10 | Exploiting the Dynamics of Commodity Futures Curves | https://arxiv.org/pdf/2308.00383
+2026-10-10 | From Hypotheses to Factors: Constrained LLM Agents in Cryptocurrency Markets | https://arxiv.org/pdf/2604.26747
+2026-10-10 | AlphaPareto: Formulaic Alpha Discovery with LLM-Guided Multi-Objective RL | https://arxiv.org/abs/2609.34188
+2026-10-10 | Alpha2: Discovering Logical Formulaic Alphas Using Deep Reinforcement Learning | https://arxiv.org/abs/2406.16505
+2026-10-10 | Towards Autonomous Formulaic Alpha Discovery: An Evolutionary Computation Perspective | https://arxiv.org/abs/2608.01789

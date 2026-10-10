@@ -7,6 +7,7 @@
 
 | 日期 | 篇数 | 主题概要 |
 |------|------|---------|
+| [2026-10-10](./2026-10-10.md) | 13 | Khandani-Lo 量化大撤退、PIN 知情交易两篇、订单失衡日频经典、Basis-Momentum、AlphaPareto 多目标 RL 挖因子 |
 | [2026-10-09](./2026-10-09.md) | 14 | 止损数学(Kaminski-Lo)、处置效应全链条五连、Zakamulin 均线择时怀疑论、FinAgent/FinPos |
 | [2026-10-08](./2026-10-08.md) | 14 | Sornette 泡沫预测正反四连、1/N 与 Black-Litterman、迷你闪崩三连、自进化交易 agent 四连 |
 | [2026-10-07](./2026-10-07.md) | 11 | 行为金融理论三部曲(DHS/BSV/Hong-Stein)、Goyal-Welch 预测怀疑论、订单符号长记忆三连、LLM/ML 波动率预测 |
