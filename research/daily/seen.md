@@ -415,3 +415,15 @@
 2026-10-10 | AlphaPareto: Formulaic Alpha Discovery with LLM-Guided Multi-Objective RL | https://arxiv.org/abs/2609.34188
 2026-10-10 | Alpha2: Discovering Logical Formulaic Alphas Using Deep Reinforcement Learning | https://arxiv.org/abs/2406.16505
 2026-10-10 | Towards Autonomous Formulaic Alpha Discovery: An Evolutionary Computation Perspective | https://arxiv.org/abs/2608.01789
+2026-10-11 | In Search of the Origins of Financial Fluctuations: The Inelastic Markets Hypothesis | NBER w28967 Gabaix-Koijen
+2026-10-11 | The Inelastic Market Hypothesis: A Microstructural Interpretation | https://arxiv.org/pdf/2108.00242
+2026-10-11 | How Competitive is the Stock Market? | https://loualiche.com/docs/competitive_stockmkt_HHL.pdf
+2026-10-11 | Do Stock Prices Fully Reflect Information in Accruals and Cash Flows About Future Earnings? | TAR 1996 Sloan
+2026-10-11 | Earnings Quality and Stock Returns | https://www.nber.org/system/files/working_papers/w8308/w8308.pdf
+2026-10-11 | Why Is the Accrual Anomaly Not Arbitraged Away? | https://www.sciencedirect.com/science/article/abs/pii/S0165410106000309
+2026-10-11 | Implied Equity Duration: A New Measure of Equity Risk | RAS 2004 Dechow-Sloan-Soliman
+2026-10-11 | Cash Flow Duration and the Term Structure of Equity Returns | https://www.nber.org/system/files/working_papers/w22520/w22520.pdf
+2026-10-11 | Interest Rate Sensitivities, Firm Growth Rates, and Stock Returns | Columbia WP Kim
+2026-10-11 | Implied Equity Duration: A Measure of Pandemic Shutdown Risk | JAR 2021
+2026-10-11 | Managed Futures and Crisis Alpha in 2025 | AlphaSimplex Kaminski-Zhao
+2026-10-11 | Trend-Following Crisis Alpha: Beta Timing or Market Selection? | Fidelity
