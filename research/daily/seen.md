@@ -427,3 +427,17 @@
 2026-10-11 | Implied Equity Duration: A Measure of Pandemic Shutdown Risk | JAR 2021
 2026-10-11 | Managed Futures and Crisis Alpha in 2025 | AlphaSimplex Kaminski-Zhao
 2026-10-11 | Trend-Following Crisis Alpha: Beta Timing or Market Selection? | Fidelity
+2026-10-12 | Is Market Fragmentation Harming Market Quality? | https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1356839
+2026-10-12 | What's Not There: The Odd-Lot Bias in TAQ Data | https://conference.nber.org/confer/2011/MMf11/Ye_O'Hara_Yao.pdf
+2026-10-12 | The Reliability of Odd-Lot Liquidity | https://ideas.repec.org/p/ofr/wpaper/25-01.html
+2026-10-12 | High Frequency Market Microstructure | JFE 2015 O'Hara
+2026-10-12 | Do Dark Pools Harm Price Discovery? | https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1712173
+2026-10-12 | Internalization and Market Quality in a Fragmented Market Structure | https://www.researchgate.net/publication/228261342_Internalization_and_Market_Quality_in_a_Fragmented_Market_Structure
+2026-10-12 | Market Fragmentation and Price Impact | https://www.aeaweb.org/conference/2023/program/paper/RTZQG5De
+2026-10-12 | Tick Size Pilot Plan and Market Quality | https://www.sec.gov/files/dera_wp_tick_size-market_quality.pdf
+2026-10-12 | Tick Size, Liquidity for Small and Large Orders, and Price Informativeness | https://www.sciencedirect.com/science/article/abs/pii/S0304405X19302831
+2026-10-12 | The Power of Voice: Managerial Affective States and Future Firm Performance | https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1171102
+2026-10-12 | Analyzing Speech to Detect Financial Misreporting | JAR 2012 Hobson-Mayew-Venkatachalam
+2026-10-12 | Vocal Delivery Quality in Earnings Conference Calls | https://www.sciencedirect.com/science/article/abs/pii/S0165410124000934
+2026-10-12 | Tips and Tells from Managers | https://www.nber.org/system/files/working_papers/w20991/w20991.pdf
+2026-10-12 | Large Language Model Agent in Financial Trading: A Survey | https://arxiv.org/pdf/2408.06361
