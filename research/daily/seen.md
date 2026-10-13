@@ -441,3 +441,16 @@
 2026-10-12 | Vocal Delivery Quality in Earnings Conference Calls | https://www.sciencedirect.com/science/article/abs/pii/S0165410124000934
 2026-10-12 | Tips and Tells from Managers | https://www.nber.org/system/files/working_papers/w20991/w20991.pdf
 2026-10-12 | Large Language Model Agent in Financial Trading: A Survey | https://arxiv.org/pdf/2408.06361
+2026-10-13 | Hedge Funds and the Treasury Cash-Futures Basis Trade | https://www.financialresearch.gov/working-papers/files/OFRwp-21-01-hedge-funds-and-the-treasury-cash-futures-disconnect.pdf
+2026-10-13 | Hedge Funds' Cash Treasury Holdings Reach $2 Trillion | https://www.financialresearch.gov/the-ofr-blog/2026/08/19/hedge-funds-cash-treasury-holdings/
+2026-10-13 | Treasury Market Dysfunction and the Role of the Central Bank | KSWY Brookings 2025
+2026-10-13 | Still the World's Safe Haven? | https://research.shanghai.nyu.edu/sites/default/files/Duffie-NYU-Shanghai-Nov2020.pdf
+2026-10-13 | How Can Safe Asset Markets Be Fragile? | https://www.newyorkfed.org/medialibrary/media/research/staff_reports/sr1026.pdf
+2026-10-13 | Enhancing Time Series Momentum Strategies Using Deep Neural Networks | https://arxiv.org/pdf/1904.04912
+2026-10-13 | Slow Momentum with Fast Reversion | https://arxiv.org/pdf/2105.13727
+2026-10-13 | Spatio-Temporal Momentum | https://arxiv.org/pdf/2302.10175
+2026-10-13 | Deep Inception Networks | https://arxiv.org/pdf/2307.05522
+2026-10-13 | Decoding Inside Information | JF 2012 Cohen-Malloy-Pomorski
+2026-10-13 | Empirical Deep Hedging | https://www.tandfonline.com/doi/full/10.1080/14697688.2022.2136037
+2026-10-13 | Is the Difference Between Deep Hedging and Delta Hedging a Statistical Arbitrage? | https://arxiv.org/pdf/2407.14736
+2026-10-13 | Deep Reinforcement Learning Algorithms for Option Hedging | https://arxiv.org/pdf/2504.05521
