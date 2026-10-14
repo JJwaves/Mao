@@ -454,3 +454,16 @@
 2026-10-13 | Empirical Deep Hedging | https://www.tandfonline.com/doi/full/10.1080/14697688.2022.2136037
 2026-10-13 | Is the Difference Between Deep Hedging and Delta Hedging a Statistical Arbitrage? | https://arxiv.org/pdf/2407.14736
 2026-10-13 | Deep Reinforcement Learning Algorithms for Option Hedging | https://arxiv.org/pdf/2504.05521
+2026-10-14 | The Voice of Monetary Policy | https://www.nber.org/system/files/working_papers/w28592/w28592.pdf
+2026-10-14 | On the Capital Market Consequences of Alternative Data: Evidence from Outer Space | Katona-Painter-Patatoukas-Zeng WP
+2026-10-14 | The Firm Next Door: Using Satellite Images to Study Local Information Advantage | https://onlinelibrary.wiley.com/doi/10.1111/1475-679X.12360
+2026-10-14 | Eye in Outer Space: Satellite Imageries of Container Ports Can Predict World Stock Returns | https://www.nature.com/articles/s41599-023-01891-9
+2026-10-14 | Forward-Looking Retailer Performance Using Parking Lot Traffic Data | https://www.sciencedirect.com/science/article/abs/pii/S0022435922000240
+2026-10-14 | Forecasting with Alternative Data | https://dl.acm.org/doi/pdf/10.1145/3366694
+2026-10-14 | Bank Transactions Embeddings Help to Uncover Current Macroeconomics | https://arxiv.org/pdf/2110.12000
+2026-10-14 | Alternative Data in Finance and Business: Emerging Applications and Theory Analysis | https://link.springer.com/article/10.1186/s40854-024-00652-0
+2026-10-14 | Good Day Sunshine: Stock Returns and the Weather | https://papers.ssrn.com/sol3/papers.cfm?abstract_id=265674
+2026-10-14 | Stock Returns and Investors' Mood: Good Day Sunshine or Spurious Correlation? | https://www.sciencedirect.com/science/article/abs/pii/S1057521917300662
+2026-10-14 | Sports Sentiment and Stock Returns | https://leeds-faculty.colorado.edu/garcia/paper91v32.pdf
+2026-10-14 | AlphaPilot: Multi-Turn Tool-Using LLM Agents for Adaptive Alpha Mining with RL | https://arxiv.org/abs/2610.15488
+2026-10-14 | AlphaRLM: Aligning Language Models for Literature-Grounded Symbolic Factor Discovery | https://arxiv.org/abs/2610.14959
