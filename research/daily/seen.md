@@ -467,3 +467,18 @@
 2026-10-14 | Sports Sentiment and Stock Returns | https://leeds-faculty.colorado.edu/garcia/paper91v32.pdf
 2026-10-14 | AlphaPilot: Multi-Turn Tool-Using LLM Agents for Adaptive Alpha Mining with RL | https://arxiv.org/abs/2610.15488
 2026-10-14 | AlphaRLM: Aligning Language Models for Literature-Grounded Symbolic Factor Discovery | https://arxiv.org/abs/2610.14959
+2026-10-15 | Expected Stock Returns and Variance Risk Premia | https://public.econ.duke.edu/~boller/Published_Papers/rfs_09.pdf
+2026-10-15 | Stock Return Predictability and Variance Risk Premia: International Evidence | https://public.econ.duke.edu/~boller/Published_Papers/jfqa_14.pdf
+2026-10-15 | Variance Risk Premia | Carr-Wu RFS 2009
+2026-10-15 | More Than You Ever Wanted To Know About Volatility Swaps | Demeterfi-Derman-Kamal-Zou GS 1999
+2026-10-15 | Just What You Need to Know About Variance Swaps | http://docs.sbossu.com/bossu-strasser-guichard-varswap.pdf
+2026-10-15 | Pricing Under Rough Volatility | https://www.wias-berlin.de/people/bayerc/files/rough-vol.pdf
+2026-10-15 | The Microstructural Foundations of Leverage Effect and Rough Volatility | https://arxiv.org/pdf/1609.05177
+2026-10-15 | Rough Volatility: Evidence from Option Prices | https://arxiv.org/pdf/1702.02777
+2026-10-15 | Microstructural Foundation for the Rough Hawkes-Heston Model | https://arxiv.org/pdf/2608.07709
+2026-10-15 | High-Frequency Trading and Market Performance | Baldauf-Mollner JF 2020
+2026-10-15 | Are Speed Bumps Beneficial? | Aramian & Comerton-Forde WP
+2026-10-15 | Speed Bump and Stock Market Quality: Evidence from NYSE American | https://onlinelibrary.wiley.com/doi/10.1111/fima.70010
+2026-10-15 | FinSearchComp: Expert-Level Evaluation of Financial Search and Reasoning | https://arxiv.org/abs/2509.13160
+2026-10-15 | Evaluation and Benchmarking Suite for Financial LLMs and Agents | https://arxiv.org/pdf/2602.19073
+2026-10-15 | Meta-Benchmarks for Financial-Services LLM Evaluation | https://arxiv.org/pdf/2607.01740
