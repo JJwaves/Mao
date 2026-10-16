@@ -482,3 +482,14 @@
 2026-10-15 | FinSearchComp: Expert-Level Evaluation of Financial Search and Reasoning | https://arxiv.org/abs/2509.13160
 2026-10-15 | Evaluation and Benchmarking Suite for Financial LLMs and Agents | https://arxiv.org/pdf/2602.19073
 2026-10-15 | Meta-Benchmarks for Financial-Services LLM Evaluation | https://arxiv.org/pdf/2607.01740
+2026-10-16 | Asset Pricing: A Tale of Night and Day | http://faculty.haas.berkeley.edu/hender/CAPMday-night.pdf
+2026-10-16 | Does Overnight News Explain Overnight Returns? | https://arxiv.org/pdf/2507.04481
+2026-10-16 | Deconstructing Monetary Policy Surprises—The Role of Information Shocks | https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2133.en.pdf
+2026-10-16 | Detecting Layering and Spoofing in Markets | https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4525036
+2026-10-16 | Does High Frequency Market Manipulation Harm Market Quality? | Melbourne WP
+2026-10-16 | Spoofing in US Futures Markets: An Interdisciplinary Approach | https://academic.oup.com/cmlj/article/20/3/kmaf012/8257809
+2026-10-16 | Quote Stuffing | https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1958281
+2026-10-16 | Quote Stuffing and Market Quality | https://www.fmg.ac.uk/sites/default/files/2020-08/Quote-Stuffing-and-Market-Quality.pdf
+2026-10-16 | Detecting Financial Market Manipulation with Statistical Physics Tools | https://arxiv.org/pdf/2308.08683
+2026-10-16 | Banging the Close: Price Manipulation or Optimal Execution? | https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2753080
+2026-10-16 | The Economics of Commodity Market Manipulation: A Survey | https://www.bauer.uh.edu/spirrong/manipulation_review_JCM_Pirrong.pdf
