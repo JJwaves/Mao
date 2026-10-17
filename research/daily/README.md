@@ -7,6 +7,7 @@
 
 | 日期 | 篇数 | 主题概要 |
 |------|------|---------|
+| [2026-10-17](./2026-10-17.md) | 12 | 尾部保险之辩(Ilmanen vs Taleb)、1987 组合保险三连、CPPI 与回撤约束、anytime-valid 挖因子裁判 |
 | [2026-10-16](./2026-10-16.md) | 11 | 昼夜定价分裂(beta 夜正日负)、Jarociński-Karadi 信息冲击判别式、市场操纵专题六连(spoofing/quote stuffing/banging the close) |
 | [2026-10-15](./2026-10-15.md) | 15 | VRP 两篇奠基、方差互换复制(VIX 公式原型)、rough vol 定价与 Hawkes 微观基础、速度减速带、FinSearchComp |
 | [2026-10-14](./2026-10-14.md) | 13 | 另类数据专题(Fed 声音 AER、卫星三连、信用卡超分析师)、情绪经典正反、十月新作 AlphaPilot/AlphaRLM |

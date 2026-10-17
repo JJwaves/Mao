@@ -493,3 +493,15 @@
 2026-10-16 | Detecting Financial Market Manipulation with Statistical Physics Tools | https://arxiv.org/pdf/2308.08683
 2026-10-16 | Banging the Close: Price Manipulation or Optimal Execution? | https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2753080
 2026-10-16 | The Economics of Commodity Market Manipulation: A Survey | https://www.bauer.uh.edu/spirrong/manipulation_review_JCM_Pirrong.pdf
+2026-10-17 | Do Financial Markets Reward Buying or Selling Insurance and Lottery Tickets? | https://images.aqr.com/-/media/AQR/Documents/Insights/Journal-Article/Do-Financial-Markets-Reward-Buying-or-Selling-Insurance-and-Lottery-Tickets.pdf
+2026-10-17 | No, Small Probabilities Are Not Attractive to Sell: A Comment | https://fooledbyrandomness.com/Ilmanen.pdf
+2026-10-17 | Probabilities and Payoffs | https://www.morganstanley.com/im/publication/insights/articles/article_probabilitiesandpayoffs.pdf
+2026-10-17 | Portfolio Insurance and October 19th | https://journals.sagepub.com/doi/abs/10.2307/41166528
+2026-10-17 | Portfolio Insurance and the Market Crash | Rubinstein FAJ 1988
+2026-10-17 | Portfolio Insurance and Other Investor Fashions in the 1987 Crash | Shiller NBER 1988
+2026-10-17 | Theory of Constant Proportion Portfolio Insurance | Black-Perold JEDC 1992
+2026-10-17 | Constant Proportion Portfolio Insurance in the Presence of Jumps | Cont-Tankov MF 2009
+2026-10-17 | Optimal Investment Strategies for Controlling Drawdowns | Grossman-Zhou MF 1993
+2026-10-17 | On Drawdown-Modulated Feedback Control in Stock Trading | https://arxiv.org/pdf/1710.01503
+2026-10-17 | Propose, Don't Judge: An Anytime-Valid Referee for LLM Agents That Mine Investment Factors | https://arxiv.org/abs/2609.27051
+2026-10-17 | MEME: Modeling the Evolutionary Modes of Financial Markets | https://arxiv.org/pdf/2602.11918
