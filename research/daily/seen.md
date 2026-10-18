@@ -505,3 +505,13 @@
 2026-10-17 | On Drawdown-Modulated Feedback Control in Stock Trading | https://arxiv.org/pdf/1710.01503
 2026-10-17 | Propose, Don't Judge: An Anytime-Valid Referee for LLM Agents That Mine Investment Factors | https://arxiv.org/abs/2609.27051
 2026-10-17 | MEME: Modeling the Evolutionary Modes of Financial Markets | https://arxiv.org/pdf/2602.11918
+2026-10-18 | Skulls, Financial Turbulence, and Risk Management | https://www.top1000funds.com/wp-content/uploads/2010/11/FAJskulls.pdf
+2026-10-18 | Principal Components as a Measure of Systemic Risk | https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1633027
+2026-10-18 | Noise as Information for Illiquidity | https://en.saif.sjtu.edu.cn/junpan/HuPanWang.pdf
+2026-10-18 | The OFR Financial Stress Index | https://www.financialresearch.gov/working-papers/files/OFRwp-17-04_The-OFR-Financial-Stress-Index.pdf
+2026-10-18 | Random Matrix Theory and Financial Correlations | https://www.cfm.com/wp-content/uploads/2022/12/234-1999-random-matrix-theory-and-financial-correlations.pdf
+2026-10-18 | Cleaning Large Correlation Matrices: Tools from Random Matrix Theory | https://arxiv.org/pdf/1610.08104
+2026-10-18 | Financial Applications of Random Matrix Theory: Old Laces and New Pieces | https://www.actaphys.uj.edu.pl/fulltext?series=Reg&vol=36&page=2767
+2026-10-18 | CoVaR | https://www.nber.org/system/files/working_papers/w17454/w17454.pdf
+2026-10-18 | Systemic Risk Measures: From the Panic of 1907 to the Present | https://www.nber.org/system/files/working_papers/w33211/w33211.pdf
+2026-10-18 | Making Heads or Tails of Systemic Risk Measures | https://arxiv.org/pdf/2206.02582
