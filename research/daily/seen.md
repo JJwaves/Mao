@@ -515,3 +515,15 @@
 2026-10-18 | CoVaR | https://www.nber.org/system/files/working_papers/w17454/w17454.pdf
 2026-10-18 | Systemic Risk Measures: From the Panic of 1907 to the Present | https://www.nber.org/system/files/working_papers/w33211/w33211.pdf
 2026-10-18 | Making Heads or Tails of Systemic Risk Measures | https://arxiv.org/pdf/2206.02582
+2026-10-19 | Is Momentum Really Momentum? | https://www.sciencedirect.com/science/article/abs/pii/S0304405X11001152
+2026-10-19 | Momentum Is Really Short-Term Momentum | https://www.sciencedirect.com/science/article/abs/pii/S0378426614003252
+2026-10-19 | Is Momentum Really Momentum? International Evidence | https://www.researchgate.net/publication/254425445_Is_Momentum_Really_Momentum_International_Evidence
+2026-10-19 | Echo Disappears: Momentum Term Structure and Cyclic Information in Turnover | https://arxiv.org/pdf/2304.03437
+2026-10-19 | Feedback Loops in Industry Trade Networks and Momentum Term Structure | https://www.sciencedirect.com/science/article/abs/pii/S0304405X21001586
+2026-10-19 | Frog in the Pan: Continuous Information and Momentum | https://digitalcommons.chapman.edu/business_articles/115/
+2026-10-19 | Frog in the Pan and the Market-State Effect on Momentum | https://www.sciencedirect.com/science/article/pii/S1544612324004045
+2026-10-19 | A Unified Approach to Interpreting Model Predictions (SHAP) | https://arxiv.org/pdf/1705.07874
+2026-10-19 | Significance of Predictors: Revisiting Stock Return Predictions Using Explainable AI | https://link.springer.com/article/10.1007/s10479-025-06717-2
+2026-10-19 | Confronting Machine Learning with Financial Research | https://arxiv.org/pdf/2103.00366
+2026-10-19 | Interpretable Machine Learning for Macro Alpha | https://arxiv.org/pdf/2505.16136
+2026-10-19 | Improving the Interpretability of Asset Pricing Models by Explainable AI | https://www.researchgate.net/publication/387241780_Improving_the_Interpretability_of_Asset_Pricing_Models_by_Explainable_AI_A_Machine_Learning-based_Approach
