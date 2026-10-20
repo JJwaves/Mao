@@ -527,3 +527,13 @@
 2026-10-19 | Confronting Machine Learning with Financial Research | https://arxiv.org/pdf/2103.00366
 2026-10-19 | Interpretable Machine Learning for Macro Alpha | https://arxiv.org/pdf/2505.16136
 2026-10-19 | Improving the Interpretability of Asset Pricing Models by Explainable AI | https://www.researchgate.net/publication/387241780_Improving_the_Interpretability_of_Asset_Pricing_Models_by_Explainable_AI_A_Machine_Learning-based_Approach
+2026-10-20 | Reserves Were Not So Ample After All | https://www.nber.org/system/files/working_papers/w29090/w29090.pdf
+2026-10-20 | Mortgage Convexity | https://core.ac.uk/download/28945730.pdf
+2026-10-20 | Mortgage Hedging in Fixed Income Markets | https://ideas.repec.org/p/ehl/lserod/119032.html
+2026-10-20 | Pricing the Term Structure with Linear Regressions (ACM) | https://www.newyorkfed.org/medialibrary/media/research/staff_reports/sr340.pdf
+2026-10-20 | Carry Trades and Currency Crashes | https://www.nber.org/system/files/working_papers/w14473/w14473.pdf
+2026-10-20 | Rare Disasters and Asset Markets in the Twentieth Century | https://dash.harvard.edu/bitstream/handle/1/3208215/Barro_RareDisasters.pdf
+2026-10-20 | Rare Disasters, Asset Prices, and Welfare Costs | http://piketty.pse.ens.fr/files/Barro09.pdf
+2026-10-20 | Rare Macroeconomic Disasters | Barro-Ursua review
+2026-10-20 | Economic Disasters: A New Data Set | https://www.sciencedirect.com/science/article/abs/pii/S1544612320300325
+2026-10-20 | QuantEvolve: Automating Quantitative Strategy Discovery through Multi-Agent Evolution | https://arxiv.org/pdf/2510.18569
