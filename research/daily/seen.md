@@ -537,3 +537,13 @@
 2026-10-20 | Rare Macroeconomic Disasters | Barro-Ursua review
 2026-10-20 | Economic Disasters: A New Data Set | https://www.sciencedirect.com/science/article/abs/pii/S1544612320300325
 2026-10-20 | QuantEvolve: Automating Quantitative Strategy Discovery through Multi-Agent Evolution | https://arxiv.org/pdf/2510.18569
+2026-10-21 | The Limits of Arbitrage (Shleifer & Vishny, JF 1997) | https://web.stanford.edu/~piazzesi/Reading/ShleiferVishny1997.pdf
+2026-10-21 | Noise Trader Risk in Financial Markets (De Long, Shleifer, Summers & Waldmann, JPE 1990) | https://ideas.repec.org/a/ucp/jpolec/v98y1990i4p703-38.html
+2026-10-21 | Asset Price Dynamics with Slow-Moving Capital (Duffie, JF 2010) | https://www.darrellduffie.com/uploads/1/4/8/0/148007615/duffieafapresidentialaddress2010.pdf
+2026-10-21 | Limits of Arbitrage: The State of the Theory (Gromb & Vayanos, ARFE 2010) | https://personal.lse.ac.uk/vayanos/Papers/LOAST_ARFE10.pdf
+2026-10-21 | Limited Arbitrage in Equity Markets (Mitchell, Pulvino & Stafford, JF 2002) | https://www.aqr.com/Insights/Research/Journal-Article/Limited-Arbitrage-in-Equity-Markets
+2026-10-21 | Can the Market Add and Subtract? Mispricing in Tech Stock Carve-outs (Lamont & Thaler, JPE 2003) | https://www.johnhcochrane.com/s/lamont-and-thaler-add-and-subtract-jpe.pdf
+2026-10-21 | A Solution to the Palm-3Com Puzzle? (Cherkes et al., CFR 2024) | https://cfr.ivo-welch.info/forthcoming/papers/cherkes2024solution.pdf
+2026-10-21 | Slow Moving Capital (Mitchell, Pedersen & Pulvino, AER 2007) | https://www.nber.org/papers/w12877.pdf
+2026-10-21 | Market Liquidity and Funding Liquidity (Brunnermeier & Pedersen, RFS 2009) | https://markus.scholar.princeton.edu/publications/market-liquidity-and-funding-liquidity
+2026-10-21 | Liquidity Risk and Expected Stock Returns (Pastor & Stambaugh, JPE 2003) | https://www.johnhcochrane.com/s/pastor_stambaugh_jpe.pdf
