@@ -547,3 +547,13 @@
 2026-10-21 | Slow Moving Capital (Mitchell, Pedersen & Pulvino, AER 2007) | https://www.nber.org/papers/w12877.pdf
 2026-10-21 | Market Liquidity and Funding Liquidity (Brunnermeier & Pedersen, RFS 2009) | https://markus.scholar.princeton.edu/publications/market-liquidity-and-funding-liquidity
 2026-10-21 | Liquidity Risk and Expected Stock Returns (Pastor & Stambaugh, JPE 2003) | https://www.johnhcochrane.com/s/pastor_stambaugh_jpe.pdf
+2026-10-22 | A New Interpretation of Information Rate (Kelly, BSTJ 1956) | https://homepage.sns.it/marmi/esameIUE/kelly.pdf
+2026-10-22 | Portfolio Choice and the Kelly Criterion (Thorp, 1975) | https://www.gwern.net/doc/statistics/decision/1975-thorp.pdf
+2026-10-22 | The "Fallacy" of Maximizing the Geometric Mean in Long Sequences of Investing or Gambling (Samuelson, PNAS 1971) | https://pmc.ncbi.nlm.nih.gov/articles/PMC389451
+2026-10-22 | Why We Should Not Make Mean Log of Wealth Big Though Years to Act Are Long (Samuelson, JBF 1979) | scholar
+2026-10-22 | The Kelly Capital Growth Investment Criterion: Good and Bad Properties (MacLean, Thorp & Ziemba, QF 2010) | https://www.stat.berkeley.edu/~aldous/157/Papers/Good_Bad_Kelly.pdf
+2026-10-22 | Growth versus Security in Dynamic Investment Analysis (MacLean, Ziemba & Blazenko, MS 1992) | scholar
+2026-10-22 | Risk-Constrained Kelly Gambling (Busseti, Ryu & Boyd, 2016) | https://arxiv.org/pdf/1603.06183
+2026-10-22 | Rational Decision-Making under Uncertainty: Observed Betting Patterns on a Biased Coin (Haghani & Dewey, 2016) | https://arxiv.org/pdf/1701.01427
+2026-10-22 | The Ergodicity Problem in Economics (Peters, Nature Physics 2019) | https://www.nature.com/articles/s41567-019-0732-0
+2026-10-22 | Economists' Views on the Ergodicity Problem (Doctor, Wakker & Wang, Nature Physics 2020) | https://www.nature.com/articles/s41567-020-01106-x
