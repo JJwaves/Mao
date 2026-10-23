@@ -557,3 +557,14 @@
 2026-10-22 | Rational Decision-Making under Uncertainty: Observed Betting Patterns on a Biased Coin (Haghani & Dewey, 2016) | https://arxiv.org/pdf/1701.01427
 2026-10-22 | The Ergodicity Problem in Economics (Peters, Nature Physics 2019) | https://www.nature.com/articles/s41567-019-0732-0
 2026-10-22 | Economists' Views on the Ergodicity Problem (Doctor, Wakker & Wang, Nature Physics 2020) | https://www.nature.com/articles/s41567-020-01106-x
+2026-10-23 | Bubbles and Crashes (Abreu & Brunnermeier, Econometrica 2003) | https://www.princeton.edu/~markus/research/papers/bubbles_crashes.htm
+2026-10-23 | Hedge Funds and the Technology Bubble (Brunnermeier & Nagel, JF 2004) | https://inctpped.ie.ufrj.br/spiderweb/dymsk_3/3-4%20Brunnermeier%20&%20Nagel.pdf
+2026-10-23 | Riding the South Sea Bubble (Temin & Voth, AER 2004) | https://www.jvoth.com/papers/riding-the-south-sea-bubble.html
+2026-10-23 | DotCom Mania: The Rise and Fall of Internet Stock Prices (Ofek & Richardson, JF 2003) | https://www.johnhcochrane.com/s/ofek_richardson_mania_jf.pdf
+2026-10-23 | Was There a Nasdaq Bubble in the Late 1990s? (Pastor & Veronesi, JFE 2006) | https://www.nber.org/papers/w10581
+2026-10-23 | Overconfidence and Speculative Bubbles (Scheinkman & Xiong, JPE 2003) | https://princeton.edu/~wxiong/papers/bubble.pdf
+2026-10-23 | Speculative Investor Behavior in a Stock Market with Heterogeneous Expectations (Harrison & Kreps, QJE 1978) | scholar
+2026-10-23 | The Chinese Warrants Bubble (Xiong & Yu, AER 2011) | https://projects.nber.org/confer/2009/bfs09/xiong.pdf
+2026-10-23 | Expectations of Returns and Expected Returns (Greenwood & Shleifer, RFS 2014) | https://nber.org/system/files/working_papers/w18686/w18686.pdf
+2026-10-23 | Bubbles for Fama (Greenwood, Shleifer & You, JFE 2019) | https://www.nber.org/system/files/working_papers/w23191/w23191.pdf
+2026-10-23 | CogAlpha: Evolving Alpha Candidates as Code with LLM Agents (ACL 2026) | https://aclanthology.org/2026.acl-long.538/
