@@ -568,3 +568,13 @@
 2026-10-23 | Expectations of Returns and Expected Returns (Greenwood & Shleifer, RFS 2014) | https://nber.org/system/files/working_papers/w18686/w18686.pdf
 2026-10-23 | Bubbles for Fama (Greenwood, Shleifer & You, JFE 2019) | https://www.nber.org/system/files/working_papers/w23191/w23191.pdf
 2026-10-23 | CogAlpha: Evolving Alpha Candidates as Code with LLM Agents (ACL 2026) | https://aclanthology.org/2026.acl-long.538/
+2026-10-24 | Risk, Uncertainty, and Divergence of Opinion (Miller, JF 1977) | scholar
+2026-10-24 | Constraints on Short-Selling and Asset Price Adjustment to Private Information (Diamond & Verrecchia, JFE 1987) | scholar
+2026-10-24 | The Market for Borrowing Stock (D'Avolio, JFE 2002) | https://www.johnhcochrane.com/s/davolio_borrowing_stock_JF.pdf
+2026-10-24 | Short-Sale Constraints and Stock Returns (Jones & Lamont, JFE 2002) | scholar
+2026-10-24 | Supply and Demand Shifts in the Shorting Market (Cohen, Diether & Malloy, JF 2007) | https://www.johnhcochrane.com/s/cohen_etal_short_supply_and_demand.pdf
+2026-10-24 | Which Shorts Are Informed? (Boehmer, Jones & Zhang, JF 2008) | https://www.johnhcochrane.com/s/boehmer_jones_zhang_shorts.pdf
+2026-10-24 | Short-Sale Strategies and Return Predictability (Diether, Lee & Werner, RFS 2009) | https://www.cis.upenn.edu/~mkearns/finread/short_sellers_predict_returns.pdf
+2026-10-24 | Short-Selling Risk (Engelberg, Reed & Ringgenberg, JF 2018) | https://rodneywhitecenter.wharton.upenn.edu/wp-content/uploads/2014/03/riggenberg.pdf
+2026-10-24 | Short-Selling Bans Around the World: Evidence from the 2007-09 Crisis (Beber & Pagano, JF 2013) | https://www.csef.it/WP/wp241.pdf
+2026-10-24 | Shackling Short Sellers: The 2008 Shorting Ban (Boehmer, Jones & Zhang, RFS 2013) | https://www.johnhcochrane.com/s/Boehmer_Jones_Zhang_ShacklingShorSellers.pdf
