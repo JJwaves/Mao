@@ -578,3 +578,13 @@
 2026-10-24 | Short-Selling Risk (Engelberg, Reed & Ringgenberg, JF 2018) | https://rodneywhitecenter.wharton.upenn.edu/wp-content/uploads/2014/03/riggenberg.pdf
 2026-10-24 | Short-Selling Bans Around the World: Evidence from the 2007-09 Crisis (Beber & Pagano, JF 2013) | https://www.csef.it/WP/wp241.pdf
 2026-10-24 | Shackling Short Sellers: The 2008 Shorting Ban (Boehmer, Jones & Zhang, RFS 2013) | https://www.johnhcochrane.com/s/Boehmer_Jones_Zhang_ShacklingShorSellers.pdf
+2026-10-25 | No Contagion, Only Interdependence (Forbes & Rigobon, JF 2002) | https://onlinelibrary.wiley.com/doi/abs/10.1111/0022-1082.00494
+2026-10-25 | Extreme Correlation of International Equity Markets (Longin & Solnik, JF 2001) | https://repec.cepr.org/repec/cpr/ceprdp/Dp2538.pdf
+2026-10-25 | Asymmetric Correlations of Equity Portfolios (Ang & Chen, JFE 2002) | https://drupalgsb-test.paas.cc.columbia.edu/sites/default/files-efs/pubfiles/1516/corr.pdf
+2026-10-25 | Asymmetries in Stock Returns: Statistical Tests and Economic Evaluation (Hong, Tu & Zhou, RFS 2007) | https://hong.economics.cornell.edu/papers/Asymmetries%20in%20Stock%20Returns-%20Statistical%20Tests%20and%20Economic%20Evaluation.pdf
+2026-10-25 | Dynamic Conditional Correlation (Engle, JBES 2002) | https://archive.nyu.edu/bitstream/2451/26879/2/S-DRP-02-01.pdf
+2026-10-25 | Measuring Financial Asset Return and Volatility Spillovers (Diebold & Yilmaz, EJ 2009) | https://www.nber.org/papers/w13811.pdf
+2026-10-25 | Better to Give than to Receive: Predictive Directional Measurement of Volatility Spillovers (Diebold & Yilmaz, IJF 2012) | scholar
+2026-10-25 | On the Network Topology of Variance Decompositions (Diebold & Yilmaz, JoE 2014) | scholar
+2026-10-25 | International Asset Allocation with Regime Shifts (Ang & Bekaert, RFS 2002) | https://business.columbia.edu/sites/default/files-efs/imce-uploads/gbekaert/papers/international%20assel%20allocation.pdf
+2026-10-25 | How Do Regimes Affect Asset Allocation? (Ang & Bekaert, FAJ 2004) | https://www.nber.org/papers/w10080.pdf
