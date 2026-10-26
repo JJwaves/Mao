@@ -588,3 +588,13 @@
 2026-10-25 | On the Network Topology of Variance Decompositions (Diebold & Yilmaz, JoE 2014) | scholar
 2026-10-25 | International Asset Allocation with Regime Shifts (Ang & Bekaert, RFS 2002) | https://business.columbia.edu/sites/default/files-efs/imce-uploads/gbekaert/papers/international%20assel%20allocation.pdf
 2026-10-25 | How Do Regimes Affect Asset Allocation? (Ang & Bekaert, FAJ 2004) | https://www.nber.org/papers/w10080.pdf
+2026-10-26 | Economic Links and Predictable Returns (Cohen & Frazzini, JF 2008) | https://www.aqr.com/Insights/Research/Journal-Article/Economic-Links-and-Predictable-Returns
+2026-10-26 | Market Segmentation and Cross-Predictability of Returns (Menzly & Ozbas, JF 2010) | https://ideas.repec.org/a/bla/jfinan/v65y2010i4p1555-1580.html
+2026-10-26 | Complicated Firms (Cohen & Lou, JFE 2012) | https://researchonline.lse.ac.uk/id/eprint/38780
+2026-10-26 | Do Industries Lead Stock Markets? (Hong, Torous & Valkanov, JFE 2007) | scholar
+2026-10-26 | Industry Information Diffusion and the Lead-Lag Effect in Stock Returns (Hou, RFS 2007) | https://ideas.repec.org/a/oup/rfinst/v20y2007i4p1113-1138.html
+2026-10-26 | Do Industries Explain Momentum? (Moskowitz & Grinblatt, JF 1999) | https://www.aqr.com/Insights/Research/Journal-Article/Do-Industries-Explain-Momentum
+2026-10-26 | Investor Inattention and Friday Earnings Announcements (DellaVigna & Pollet, JF 2009) | https://www.nber.org/papers/w11683.pdf
+2026-10-26 | Driven to Distraction: Extraneous Events and Underreaction to Earnings News (Hirshleifer, Lim & Teoh, JF 2009) | scholar
+2026-10-26 | An Empirical Evaluation of Accounting Income Numbers (Ball & Brown, JAR 1968) | scholar
+2026-10-26 | Post-Earnings-Announcement Drift: Delayed Price Response or Risk Premium? (Bernard & Thomas, JAR 1989) | scholar
