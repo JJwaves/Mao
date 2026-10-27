@@ -598,3 +598,13 @@
 2026-10-26 | Driven to Distraction: Extraneous Events and Underreaction to Earnings News (Hirshleifer, Lim & Teoh, JF 2009) | scholar
 2026-10-26 | An Empirical Evaluation of Accounting Income Numbers (Ball & Brown, JAR 1968) | scholar
 2026-10-26 | Post-Earnings-Announcement Drift: Delayed Price Response or Risk Premium? (Bernard & Thomas, JAR 1989) | scholar
+2026-10-27 | Investor Sentiment and the Closed-End Fund Puzzle (Lee, Shleifer & Thaler, JF 1991) | https://www.nber.org/papers/w3465
+2026-10-27 | Investor Sentiment and the Cross-Section of Stock Returns (Baker & Wurgler, JF 2006) | https://www3.nd.edu/~pschultz/BakerWurgler.pdf
+2026-10-27 | Investor Sentiment in the Stock Market (Baker & Wurgler, JEP 2007) | scholar
+2026-10-27 | The Short of It: Investor Sentiment and Anomalies (Stambaugh, Yu & Yuan, JFE 2012) | https://www.nber.org/papers/w16898.pdf
+2026-10-27 | Investor Sentiment and the Mean-Variance Relation (Yu & Yuan, JFE 2011) | https://repository.upenn.edu/handle/20.500.14332/34483
+2026-10-27 | Investor Sentiment Aligned: A Powerful Predictor of Stock Returns (Huang, Jiang, Tu & Zhou, RFS 2015) | https://ideas.repec.org/a/oup/rfinst/v28y2015i3p791-837..html
+2026-10-27 | The Sum of All FEARS: Investor Sentiment and Asset Prices (Da, Engelberg & Gao, RFS 2015) | https://www3.nd.edu/~pgao/papers/Rev. Financ. Stud.-2015-Da-1-32.pdf
+2026-10-27 | Sentiment during Recessions (Garcia, JF 2013) | https://leeds-faculty.colorado.edu/garcia/media_v33.pdf
+2026-10-27 | Consumer Confidence and Asset Prices (Lemmon & Portniaguina, RFS 2006) | https://www.nber.org/papers/w10794.pdf
+2026-10-27 | Degree of Irrationality: Sentiment and Implied Volatility Surface (arXiv 2024) | https://arxiv.org/pdf/2405.11730
