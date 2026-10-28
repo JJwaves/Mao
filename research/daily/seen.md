@@ -608,3 +608,13 @@
 2026-10-27 | Sentiment during Recessions (Garcia, JF 2013) | https://leeds-faculty.colorado.edu/garcia/media_v33.pdf
 2026-10-27 | Consumer Confidence and Asset Prices (Lemmon & Portniaguina, RFS 2006) | https://www.nber.org/papers/w10794.pdf
 2026-10-27 | Degree of Irrationality: Sentiment and Implied Volatility Surface (arXiv 2024) | https://arxiv.org/pdf/2405.11730
+2026-10-28 | The Illusory Nature of Momentum Profits (Lesmond, Schill & Zhou, JFE 2004) | https://www.bauer.uh.edu/rsusmel/phd/Lesmond_et al _2004_JFE.pdf
+2026-10-28 | Are Momentum Profits Robust to Trading Costs? (Korajczyk & Sadka, JF 2004) | https://www.kellogg.northwestern.edu/faculty/korajczy/htm/korajczyk sadka.jf2004.pdf
+2026-10-28 | A Taxonomy of Anomalies and Their Trading Costs (Novy-Marx & Velikov, RFS 2016) | https://mysimon.rochester.edu/novy-marx/research/ToAatTC.pdf
+2026-10-28 | Zeroing In on the Expected Returns of Anomalies (Chen & Velikov, JFQA 2023) | https://www.federalreserve.gov/econres/feds/files/2020039pap.pdf
+2026-10-28 | What You See Is Not What You Get: The Costs of Trading Market Anomalies (Patton & Weller, JFE 2020) | https://public.econ.duke.edu/~ap172/Patton_Weller_MF_28nov18.pdf
+2026-10-28 | A Transaction-Cost Perspective on the Multitude of Firm Characteristics (DeMiguel, Martin-Utrera, Nogales & Uppal, RFS 2020) | https://lbsresearch.london.edu/id/eprint/1124
+2026-10-28 | Trading Costs and Returns for U.S. Equities (Hasbrouck, JF 2009) | https://pages.stern.nyu.edu/~jh4/Research/GibbsCurrent/HasbrouckJF.pdf
+2026-10-28 | Transactions Costs and Investment Style (Keim & Madhavan, JFE 1997) | scholar
+2026-10-28 | Shedding Light on Invisible Costs: Trading Costs and Mutual Fund Performance (Edelen, Evans & Kadlec, FAJ 2013) | https://econpapers.repec.org/RePEc:taf:ufajxx:v:69:y:2013:i:1:p:33-44
+2026-10-28 | Capacity of Smart Beta Strategies (Ratcliffe, Miranda & Ang, SSRN WP) | https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2861324
