@@ -618,3 +618,14 @@
 2026-10-28 | Transactions Costs and Investment Style (Keim & Madhavan, JFE 1997) | scholar
 2026-10-28 | Shedding Light on Invisible Costs: Trading Costs and Mutual Fund Performance (Edelen, Evans & Kadlec, FAJ 2013) | https://econpapers.repec.org/RePEc:taf:ufajxx:v:69:y:2013:i:1:p:33-44
 2026-10-28 | Capacity of Smart Beta Strategies (Ratcliffe, Miranda & Ang, SSRN WP) | https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2861324
+2026-10-29 | Capital Market Equilibrium with Restricted Borrowing (Black, JoB 1972) | scholar
+2026-10-29 | Risk and the Rate of Return on Financial Assets (Haugen & Heins, JFQA 1975) | https://ideas.repec.org/a/cup/jfinqa/v10y1975i05p775-784_01.html
+2026-10-29 | The Volatility Effect (Blitz & van Vliet, JPM 2007) | scholar
+2026-10-29 | A Lottery-Demand-Based Explanation of the Beta Anomaly (Bali, Brown, Murray & Tang, JFQA 2017) | cambridge open PDF
+2026-10-29 | Arbitrage Asymmetry and the Idiosyncratic Volatility Puzzle (Stambaugh, Yu & Yuan, JF 2015) | scholar
+2026-10-29 | Absolving Beta of Volatility's Effects (Liu, Stambaugh & Yuan, JFE 2018) | https://econpapers.repec.org/RePEc:eee:jfinec:v:128:y:2018:i:1:p:1-15
+2026-10-29 | Have We Solved the Idiosyncratic Volatility Puzzle? (Hou & Loh, JFE 2016) | https://ink.library.smu.edu.sg/lkcsb_research/3503
+2026-10-29 | Low-Risk Anomalies? (Schneider, Wagner & Zechner, JF 2020) | https://research.wu.ac.at/ws/files/18602631/jofi.12910.pdf
+2026-10-29 | Betting Against Correlation (Asness, Frazzini, Gormsen & Pedersen, JFE 2020) | https://econpapers.repec.org/RePEc:eee:jfinec:v:135:y:2020:i:3:p:629-652
+2026-10-29 | Betting Against Betting Against Beta (Novy-Marx & Velikov, JFE 2022) | https://mysimon.rochester.edu/novy-marx/research/BABAB.pdf
+2026-10-29 | Closed-loop LLM quant researcher for interpretable factors | https://arxiv.org/html/2603.14288v1
