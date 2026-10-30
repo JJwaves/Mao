@@ -629,3 +629,13 @@
 2026-10-29 | Betting Against Correlation (Asness, Frazzini, Gormsen & Pedersen, JFE 2020) | https://econpapers.repec.org/RePEc:eee:jfinec:v:135:y:2020:i:3:p:629-652
 2026-10-29 | Betting Against Betting Against Beta (Novy-Marx & Velikov, JFE 2022) | https://mysimon.rochester.edu/novy-marx/research/BABAB.pdf
 2026-10-29 | Closed-loop LLM quant researcher for interpretable factors | https://arxiv.org/html/2603.14288v1
+2026-10-30 | Conditional Skewness in Asset Pricing Tests (Harvey & Siddique, JF 2000) | https://people.duke.edu/~charvey/Research/Published_Papers/P56_Conditional_skewness_in.pdf
+2026-10-30 | Conditional Skewness in Asset Pricing: 25 Years of Out-of-Sample Evidence (Harvey et al., CFR 2022) | https://cfr.ivo-welch.info/published/papers/harvey2022conditional.pdf
+2026-10-30 | Expected Idiosyncratic Skewness (Boyer, Mitton & Vorkink, RFS 2010) | https://papers.ssrn.com/abstract=1541002
+2026-10-30 | Stock Options as Lotteries (Boyer & Vorkink, JF 2014) | scholar
+2026-10-30 | Ex Ante Skewness and Expected Stock Returns (Conrad, Dittmar & Ghysels, JF 2013) | https://pages.stern.nyu.edu/~dbackus/Disasters/ConradDittmarGhysels skewness Dec 09.PDF
+2026-10-30 | The Skew Risk Premium in the Equity Index Market (Kozhan, Neuberger & Schneider, RFS 2013) | https://openaccess.city.ac.uk/id/eprint/15209/
+2026-10-30 | Does Realized Skewness Predict the Cross-Section of Equity Returns? (Amaya, Christoffersen, Jacobs & Vasquez, JFE 2015) | https://repec.econ.au.dk/repec/creates/rp/13/rp13_41.pdf
+2026-10-30 | Tail Risk and Asset Prices (Kelly & Jiang, RFS 2014) | https://www.nber.org/papers/w19375.pdf
+2026-10-30 | Tails, Fears, and Risk Premia (Bollerslev & Todorov, JF 2011) | kellogg page
+2026-10-30 | Tail Risk Premia and Return Predictability (Bollerslev, Todorov & Xu, JFE 2015) | https://www.kellogg.northwestern.edu/faculty/todorov/htm/papers/tvt_pred.pdf
