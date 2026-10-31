@@ -639,3 +639,13 @@
 2026-10-30 | Tail Risk and Asset Prices (Kelly & Jiang, RFS 2014) | https://www.nber.org/papers/w19375.pdf
 2026-10-30 | Tails, Fears, and Risk Premia (Bollerslev & Todorov, JF 2011) | kellogg page
 2026-10-30 | Tail Risk Premia and Return Predictability (Bollerslev, Todorov & Xu, JFE 2015) | https://www.kellogg.northwestern.edu/faculty/todorov/htm/papers/tvt_pred.pdf
+2026-10-31 | Capital Market Seasonality: The Case of Stock Returns (Rozeff & Kinney, JFE 1976) | https://econpapers.repec.org/RePEc:eee:jfinec:v:3:y:1976:i:4:p:379-402
+2026-10-31 | Size-Related Anomalies and Stock Return Seasonality (Keim, JFE 1983) | scholar
+2026-10-31 | Vas ist das? The Turn of the Year Effect (Roll, JPM 1983) | scholar
+2026-10-31 | The Anomalous Stock Market Behavior of Small Firms in January (Reinganum, JFE 1983) | scholar
+2026-10-31 | Capital Gains Tax Rules, Tax-Loss Trading, and Turn-of-the-Year Returns (Poterba & Weisbenner, JF 2001) | mit pdf
+2026-10-31 | Institutional Trading and the Turn-of-the-Year Effect (Ng & Wang, JFE 2004) | scholar
+2026-10-31 | The Year-End Trading Activities of Institutional Investors (Hu, McLean, Pontiff & Wang, RFS 2014) | https://ideas.repec.org/a/oup/rfinst/v27y2014i5p1593-1614..html
+2026-10-31 | Are Seasonal Anomalies Real? A Ninety-Year Perspective (Lakonishok & Smidt, RFS 1988) | scholar
+2026-10-31 | Dangers of Data Mining: The Case of Calendar Effects (Sullivan, Timmermann & White, JoE 2001) | https://researchonline.lse.ac.uk/id/eprint/18482
+2026-10-31 | The January Effect: Still There after All These Years (Haugen & Jorion, FAJ 1996) | https://rpc.cfainstitute.org/research/financial-analysts-journal/1996/the-january-effect-still-there-after-all-these-years
