@@ -649,3 +649,13 @@
 2026-10-31 | Are Seasonal Anomalies Real? A Ninety-Year Perspective (Lakonishok & Smidt, RFS 1988) | scholar
 2026-10-31 | Dangers of Data Mining: The Case of Calendar Effects (Sullivan, Timmermann & White, JoE 2001) | https://researchonline.lse.ac.uk/id/eprint/18482
 2026-10-31 | The January Effect: Still There after All These Years (Haugen & Jorion, FAJ 1996) | https://rpc.cfainstitute.org/research/financial-analysts-journal/1996/the-january-effect-still-there-after-all-these-years
+2026-11-01 | Market Microstructure (Garman, JFE 1976) | scholar
+2026-11-01 | Dealer Inventory Behavior: An Empirical Investigation of NASDAQ Stocks (Stoll, JFQA 1976) | cambridge open PDF
+2026-11-01 | The Supply of Dealer Services in Securities Markets (Stoll, JF 1978) | https://econpapers.repec.org/RePEc:bla:jfinan:v:33:y:1978:i:4:p:1133-51
+2026-11-01 | Dealership Market: Market-Making with Inventory (Amihud & Mendelson, JFE 1980) | https://econpapers.repec.org/RePEc:eee:jfinec:v:8:y:1980:i:1:p:31-53
+2026-11-01 | Optimal Dealer Pricing under Transactions and Return Uncertainty (Ho & Stoll, JFE 1981) | https://econpapers.repec.org/RePEc:eee:jfinec:v:9:y:1981:i:1:p:47-73
+2026-11-01 | The Dynamics of Dealer Markets under Competition (Ho & Stoll, JF 1983) | scholar
+2026-11-01 | A Simple Implicit Measure of the Effective Bid-Ask Spread (Roll, JF 1984) | https://www.bauer.uh.edu/rsusmel/phd/roll1984.pdf
+2026-11-01 | Inferring the Components of the Bid-Ask Spread (Stoll, JF 1989) | scholar
+2026-11-01 | The Components of the Bid-Ask Spread: A General Approach (Huang & Stoll, RFS 1997) | https://ideas.repec.org/a/oup/rfinst/v10y1997i4p995-1034.html
+2026-11-01 | Presidential Address: Friction (Stoll, JF 2000) | https://econpapers.repec.org/RePEc:bla:jfinan:v:55:y:2000:i:4:p:1479-1514
