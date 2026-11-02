@@ -659,3 +659,13 @@
 2026-11-01 | Inferring the Components of the Bid-Ask Spread (Stoll, JF 1989) | scholar
 2026-11-01 | The Components of the Bid-Ask Spread: A General Approach (Huang & Stoll, RFS 1997) | https://ideas.repec.org/a/oup/rfinst/v10y1997i4p995-1034.html
 2026-11-01 | Presidential Address: Friction (Stoll, JF 2000) | https://econpapers.repec.org/RePEc:bla:jfinan:v:55:y:2000:i:4:p:1479-1514
+2026-11-02 | The Economic Value of Volatility Timing (Fleming, Kirby & Ostdiek, JF 2001) | https://econpapers.repec.org/RePEc:bla:jfinan:v:56:y:2001:i:1:p:329-352
+2026-11-02 | The Economic Value of Volatility Timing Using Realized Volatility (Fleming, Kirby & Ostdiek, JFE 2003) | tsinghua pdf
+2026-11-02 | Momentum Has Its Moments (Barroso & Santa-Clara, JFE 2015) | https://core.ac.uk/download/213566226.pdf
+2026-11-02 | Should Long-Term Investors Time Volatility? (Moreira & Muir, JFE 2019) | https://amoreira2.github.io/alan-moreira.github.io/MoreiraMuir_Portfolio_JFE.pdf
+2026-11-02 | On the Performance of Volatility-Managed Portfolios (Cederburg, O'Doherty, Wang & Yan, JFE 2020) | https://www.lehigh.edu/~xuy219/research/COWY.pdf
+2026-11-02 | Do Limits to Arbitrage Explain the Benefits of Volatility-Managed Portfolios? (Barroso & Detzel, JFE 2021) | https://econpapers.repec.org/RePEc:eee:jfinec:v:140:y:2021:i:3:p:744-767
+2026-11-02 | The Impact of Volatility Targeting (Harvey et al., JPM 2018) | https://econpapers.repec.org/RePEc:taf:ufajxx:v:76:y:2020:i:4:p:54-71
+2026-11-02 | Conditional Volatility Targeting (Bongaerts, Kang & van Dijk, FAJ 2020) | https://core.ac.uk/download/328853217.pdf
+2026-11-02 | Risk Everywhere: Modeling and Managing Volatility (Bollerslev, Hood, Huss & Pedersen, RFS 2018) | cbs pdf
+2026-11-02 | It's All in the Timing (Kirby & Ostdiek, JFQA 2012) | cambridge open PDF
