@@ -669,3 +669,13 @@
 2026-11-02 | Conditional Volatility Targeting (Bongaerts, Kang & van Dijk, FAJ 2020) | https://core.ac.uk/download/328853217.pdf
 2026-11-02 | Risk Everywhere: Modeling and Managing Volatility (Bollerslev, Hood, Huss & Pedersen, RFS 2018) | cbs pdf
 2026-11-02 | It's All in the Timing (Kirby & Ostdiek, JFQA 2012) | cambridge open PDF
+2026-11-03 | The Presidential Puzzle: Political Cycles and the Stock Market (Santa-Clara & Valkanov, JF 2003) | https://econpapers.repec.org/RePEc:bla:jfinan:v:58:y:2003:i:5:p:1841-1872
+2026-11-03 | Political Cycles and Stock Returns (Pastor & Veronesi, JPE 2020) | https://knowledge.uchicago.edu/record/14074/files/Political-Cycles-and-Stock-Returns.pdf
+2026-11-03 | Uncertainty about Government Policy and Stock Prices (Pastor & Veronesi, JF 2012) | https://www.nber.org/system/files/working_papers/w16128/w16128.pdf
+2026-11-03 | Political Uncertainty and Risk Premia (Pastor & Veronesi, JFE 2013) | https://www.nber.org/system/files/working_papers/w17464/w17464.pdf
+2026-11-03 | The Price of Political Uncertainty (Kelly, Pastor & Veronesi, JF 2016) | https://www.nber.org/papers/w19812.pdf
+2026-11-03 | Partisan Impacts on the Economy (Snowberg, Wolfers & Zitzewitz, QJE 2007) | https://www.nber.org/system/files/working_papers/w12073/w12073.pdf
+2026-11-03 | Stock Market Volatility around National Elections (Bialkowski, Gottschalk & Wisniewski, JBF 2008) | https://mpra.ub.uni-muenchen.de/302/1/MPRA_paper_302.pdf
+2026-11-03 | The Asset-Pricing Implications of Government Economic Policy Uncertainty (Brogaard & Detzel, MS 2015) | https://econpapers.repec.org/RePEc:inm:ormnsc:v:61:y:2015:i:1:p:3-18
+2026-11-03 | Political Sentiment and Predictable Returns (Addoum & Kumar, RFS 2016) | https://econpapers.repec.org/RePEc:oup:rfinst:v:29:y:2016:i:12:p:3471-3518.
+2026-11-03 | Underreaction to Political Information and Price Momentum (FM 2019) | https://econpapers.repec.org/RePEc:bla:finmgt:v:48:y:2019:i:3:p:773-804
