@@ -679,3 +679,13 @@
 2026-11-03 | The Asset-Pricing Implications of Government Economic Policy Uncertainty (Brogaard & Detzel, MS 2015) | https://econpapers.repec.org/RePEc:inm:ormnsc:v:61:y:2015:i:1:p:3-18
 2026-11-03 | Political Sentiment and Predictable Returns (Addoum & Kumar, RFS 2016) | https://econpapers.repec.org/RePEc:oup:rfinst:v:29:y:2016:i:12:p:3471-3518.
 2026-11-03 | Underreaction to Political Information and Price Momentum (FM 2019) | https://econpapers.repec.org/RePEc:bla:finmgt:v:48:y:2019:i:3:p:773-804
+2026-11-04 | Do Brokerage Analysts' Recommendations Have Investment Value? (Womack, JF 1996) | https://econpapers.repec.org/RePEc:bla:jfinan:v:51:y:1996:i:1:p:137-67
+2026-11-04 | Can Investors Profit from the Prophets? (Barber, Lehavy, McNichols & Trueman, JF 2001) | https://ideas.repec.org/a/bla/jfinan/v56y2001i2p531-563.html
+2026-11-04 | Prophets and Losses (Barber et al., FAJ 2003) | https://econpapers.repec.org/RePEc:taf:ufajxx:v:59:y:2003:i:2:p:88-96
+2026-11-04 | Conflict of Interest and the Credibility of Underwriter Analyst Recommendations (Michaely & Womack, RFS 1999) | bath pdf
+2026-11-04 | Analyzing the Analysts: Career Concerns and Biased Earnings Forecasts (Hong & Kubik, JF 2003) | bath pdf
+2026-11-04 | Analyzing the Analysts: When Do Recommendations Add Value? (Jegadeesh, Kim, Krische & Lee, JF 2004) | scholar
+2026-11-04 | When Are Analyst Recommendation Changes Influential? (Loh & Stulz, RFS 2011) | https://www.nber.org/papers/w14971
+2026-11-04 | Analyst Forecast Revisions and Market Price Discovery (Gleason & Lee, TAR 2003) | iowa record
+2026-11-04 | Differences of Opinion and the Cross Section of Stock Returns (Diether, Malloy & Scherbina, JF 2002) | https://www.kellogg.northwestern.edu/faculty/mcdonald/ftp/practicum/papers/dms3.pdf
+2026-11-04 | Bad News Travels Slowly (Hong, Lim & Stein, JF 2000) | https://www.nber.org/papers/w6553
