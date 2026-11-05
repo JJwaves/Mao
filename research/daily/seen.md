@@ -689,3 +689,13 @@
 2026-11-04 | Analyst Forecast Revisions and Market Price Discovery (Gleason & Lee, TAR 2003) | iowa record
 2026-11-04 | Differences of Opinion and the Cross Section of Stock Returns (Diether, Malloy & Scherbina, JF 2002) | https://www.kellogg.northwestern.edu/faculty/mcdonald/ftp/practicum/papers/dms3.pdf
 2026-11-04 | Bad News Travels Slowly (Hong, Lim & Stein, JF 2000) | https://www.nber.org/papers/w6553
+2026-11-05 | Facts and Fantasies about Commodity Futures (Gorton & Rouwenhorst, FAJ 2006) | https://www.nber.org/papers/w10595.pdf
+2026-11-05 | The Tactical and Strategic Value of Commodity Futures (Erb & Harvey, FAJ 2006) | https://people.duke.edu/~charvey/Research/Working_Papers/W77_The_tactical_and.pdf
+2026-11-05 | Facts and Fantasies about Commodity Futures Ten Years Later (Bhardwaj, Gorton & Rouwenhorst, NBER 2015) | https://www.nber.org/papers/w21243.pdf
+2026-11-05 | Index Investment and the Financialization of Commodities (Tang & Xiong, FAJ 2012) | https://www.princeton.edu/~wxiong/papers/commodity.pdf
+2026-11-05 | Financialization of Commodity Markets (Cheng & Xiong, ARFE 2014) | https://inghawcheng.github.io/data/ReviewPaper-Financialization_ARFE.pdf
+2026-11-05 | Investor Flows and the 2008 Boom/Bust in Oil Prices (Singleton, MS 2014) | eia pdf
+2026-11-05 | An Anatomy of Commodity Futures Risk Premia (Szymanowska et al., JF 2014) | https://ideas.repec.org/a/bla/jfinan/v69y2014i1p453-482.html
+2026-11-05 | What Does Futures Market Interest Tell Us about the Macroeconomy and Asset Prices? (Hong & Yogo, JFE 2012) | https://www.nber.org/system/files/working_papers/w16712/w16712.pdf
+2026-11-05 | Not All Oil Price Shocks Are Alike (Kilian, AER 2009) | aueb pdf
+2026-11-05 | Not All Oil Price Shocks Are Alike: A Replication (arXiv 2024) | https://arxiv.org/pdf/2409.00769
