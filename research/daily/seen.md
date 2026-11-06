@@ -699,3 +699,13 @@
 2026-11-05 | What Does Futures Market Interest Tell Us about the Macroeconomy and Asset Prices? (Hong & Yogo, JFE 2012) | https://www.nber.org/system/files/working_papers/w16712/w16712.pdf
 2026-11-05 | Not All Oil Price Shocks Are Alike (Kilian, AER 2009) | aueb pdf
 2026-11-05 | Not All Oil Price Shocks Are Alike: A Replication (arXiv 2024) | https://arxiv.org/pdf/2409.00769
+2026-11-06 | Equity Yields (van Binsbergen, Hueskes, Koijen & Vrugt, JFE 2013) | https://www.nber.org/papers/w17416.pdf
+2026-11-06 | The Term Structure of Returns: Facts and Theory (van Binsbergen & Koijen, JFE 2017) | https://www.nber.org/papers/w21234.pdf
+2026-11-06 | Time Variation of the Equity Term Structure (Gormsen, JF 2021) | https://ideas.repec.org/a/bla/jfinan/v76y2021i4p1959-1999.html
+2026-11-06 | The Term Structure of Equity Risk Premia (Bansal, Miller, Song & Yaron, JFE 2021) | https://people.duke.edu/~rb7/bio/BMY_dividend_strips.pdf
+2026-11-06 | On the Timing and Pricing of Dividends: Comment (Schulz, AER 2016) | https://ideas.repec.org/a/aea/aecrev/v106y2016i10p3185-3223.html
+2026-11-06 | On the Timing and Pricing of Dividends: Reply (van Binsbergen & Koijen, AER 2016) | https://econpapers.repec.org/RePEc:aea:aecrev:v:106:y:2016:i:10:p:3224-37
+2026-11-06 | Boguth-Carlson-Fisher-Simutin dividend strips critique (NBER w18450) | https://www.nber.org/papers/w18450.pdf
+2026-11-06 | Dividend Dynamics and the Term Structure of Dividend Strips (Belo, Collin-Dufresne & Goldstein, JF 2015) | scholar
+2026-11-06 | Coronavirus: Impact on Stock Prices and Growth Expectations (Gormsen & Koijen, RAPS 2020) | https://www.nber.org/papers/w27387.pdf
+2026-11-06 | Reinvestment Risk and the Equity Term Structure (Goncalves, JF 2021) | https://aeaweb.org/conference/2020/preliminary/paper/9iQGkrA2
