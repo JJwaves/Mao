@@ -709,3 +709,13 @@
 2026-11-06 | Dividend Dynamics and the Term Structure of Dividend Strips (Belo, Collin-Dufresne & Goldstein, JF 2015) | scholar
 2026-11-06 | Coronavirus: Impact on Stock Prices and Growth Expectations (Gormsen & Koijen, RAPS 2020) | https://www.nber.org/papers/w27387.pdf
 2026-11-06 | Reinvestment Risk and the Equity Term Structure (Goncalves, JF 2021) | https://aeaweb.org/conference/2020/preliminary/paper/9iQGkrA2
+2026-11-07 | Insiders' Profits, Costs of Trading, and Market Efficiency (Seyhun, JFE 1986) | scholar
+2026-11-07 | An Empirical Analysis of Illegal Insider Trading (Meulbroek, JF 1992) | https://ideas.repec.org/a/bla/jfinan/v47y1992i5p1661-99.html
+2026-11-07 | Are Insider Trades Informative? (Lakonishok & Lee, RFS 2001) | https://ideas.repec.org/a/oup/rfinst/v14y2001i1p79-111.html
+2026-11-07 | Estimating the Returns to Insider Trading (Jeng, Metrick & Zeckhauser, REStat 2003) | harvard pdf
+2026-11-07 | The Dog That Did Not Bark: Insider Trading and Crashes (Marin & Olivier, JF 2008) | https://econpapers.repec.org/RePEc:bla:jfinan:v:63:y:2008:i:5:p:2429-2476
+2026-11-07 | Jeopardy, Non-public Information, and Insider Trading around SEC Filings (Huddart, Ke & Shi, JAE 2007) | https://ideas.repec.org/a/eee/jaecon/v43y2007i1p3-36.html
+2026-11-07 | SEC Rule 10b5-1 and Insiders' Strategic Trade (Jagolinzer, MS 2009) | https://ideas.repec.org/a/inm/ormnsc/v55y2009i2p224-239.html
+2026-11-07 | When and How Are Rule 10b5-1 Plans Used for Insider Stock Sales? (Larcker et al., JFE 2023) | https://ideas.repec.org/a/eee/jfinec/v149y2023i1p1-26.html
+2026-11-07 | Chasing Private Information (Kacperczyk & Pagnotta, RFS 2019) | https://econpapers.repec.org/RePEc:oup:rfinst:v:32:y:2019:i:12:p:4997-5047.
+2026-11-07 | Perks or Peanuts? The Dollar Profits to Insider Trading (Cziraki & Gider, RF) | abfer pdf
