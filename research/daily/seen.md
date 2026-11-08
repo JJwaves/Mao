@@ -719,3 +719,13 @@
 2026-11-07 | When and How Are Rule 10b5-1 Plans Used for Insider Stock Sales? (Larcker et al., JFE 2023) | https://ideas.repec.org/a/eee/jfinec/v149y2023i1p1-26.html
 2026-11-07 | Chasing Private Information (Kacperczyk & Pagnotta, RFS 2019) | https://econpapers.repec.org/RePEc:oup:rfinst:v:32:y:2019:i:12:p:4997-5047.
 2026-11-07 | Perks or Peanuts? The Dollar Profits to Insider Trading (Cziraki & Gider, RF) | abfer pdf
+2026-11-08 | Predictive Regressions (Stambaugh, JFE 1999) | scholar
+2026-11-08 | Dividend Yields and Expected Stock Returns: Alternative Procedures (Hodrick, RFS 1992) | scholar
+2026-11-08 | Spurious Regressions in Financial Economics? (Ferson, Sarkissian & Simin, JF 2003) | https://www.nber.org/system/files/working_papers/w9143/w9143.pdf
+2026-11-08 | Predicting Returns with Financial Ratios (Lewellen, JFE 2004) | scholar
+2026-11-08 | Efficient Tests of Stock Return Predictability (Campbell & Yogo, JFE 2006) | https://www.bauer.uh.edu/rsusmel/phd/Campbell-Yogo_2006_JFE.pdf
+2026-11-08 | The Myth of Long-Horizon Predictability (Boudoukh, Richardson & Whitelaw, RFS 2008) | https://www.nber.org/papers/w11841
+2026-11-08 | Biases in Long-Horizon Predictive Regressions (Boudoukh, Israel & Richardson, JFE 2022) | https://nber.org/system/files/working_papers/w27410/w27410.pdf
+2026-11-08 | Predicting Anomaly Performance with Politics, the Weather... (Novy-Marx, JFE 2014) | https://mysimon.rochester.edu/novy-marx/research/PPiCToAPA.pdf
+2026-11-08 | Robust Econometric Inference for Stock Return Predictability / IVX (Kostakis, Magdalinos & Stamatogiannis, RFS 2015) | unipi pdf
+2026-11-08 | Predicting Excess Stock Returns Out of Sample (Campbell & Thompson, RFS 2008) | harvard pdf
