@@ -729,3 +729,13 @@
 2026-11-08 | Predicting Anomaly Performance with Politics, the Weather... (Novy-Marx, JFE 2014) | https://mysimon.rochester.edu/novy-marx/research/PPiCToAPA.pdf
 2026-11-08 | Robust Econometric Inference for Stock Return Predictability / IVX (Kostakis, Magdalinos & Stamatogiannis, RFS 2015) | unipi pdf
 2026-11-08 | Predicting Excess Stock Returns Out of Sample (Campbell & Thompson, RFS 2008) | harvard pdf
+2026-11-09 | The Markowitz Optimization Enigma (Michaud, FAJ 1989) | cfa record
+2026-11-09 | On the Sensitivity of Mean-Variance-Efficient Portfolios (Best & Grauer, RFS 1991) | scholar
+2026-11-09 | When Will Mean-Variance Efficient Portfolios Be Well Diversified? (Green & Hollifield, JF 1992) | scholar
+2026-11-09 | The Effect of Errors in Means, Variances, and Covariances (Chopra & Ziemba, JPM 1993) | scholar
+2026-11-09 | Risk Reduction in Large Portfolios: Why Imposing the Wrong Constraints Helps (Jagannathan & Ma, JF 2003) | https://nber.org/papers/w8922
+2026-11-09 | A Generalized Approach to Portfolio Optimization: Constraining Portfolio Norms (DeMiguel, Garlappi, Nogales & Uppal, MS 2009) | https://lbsresearch.london.edu/id/eprint/330
+2026-11-09 | Minimum-Variance Portfolios in the U.S. Equity Market (Clarke, de Silva & Thorley, JPM 2006) | scilit record
+2026-11-09 | Leverage Aversion and Risk Parity (Asness, Frazzini & Pedersen, FAJ 2012) | scholar
+2026-11-09 | Will My Risk Parity Strategy Outperform? (Anderson, Bianchi & Goldberg, FAJ 2012) | berkeley pdf
+2026-11-09 | Determinants of Levered Portfolio Performance (Anderson, Bianchi & Goldberg, FAJ 2014) | scholar
