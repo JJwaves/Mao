@@ -739,3 +739,14 @@
 2026-11-09 | Leverage Aversion and Risk Parity (Asness, Frazzini & Pedersen, FAJ 2012) | scholar
 2026-11-09 | Will My Risk Parity Strategy Outperform? (Anderson, Bianchi & Goldberg, FAJ 2012) | berkeley pdf
 2026-11-09 | Determinants of Levered Portfolio Performance (Anderson, Bianchi & Goldberg, FAJ 2014) | scholar
+2026-11-10 | Do Stock Prices Move Too Much to Be Justified by Subsequent Changes in Dividends? (Shiller, AER 1981) | scholar
+2026-11-10 | The Equity Premium: A Puzzle (Mehra & Prescott, JME 1985) | scholar
+2026-11-10 | The Equity Premium in Retrospect (Mehra & Prescott, NBER 2003) | https://www.nber.org/system/files/working_papers/w9525/w9525.pdf
+2026-11-10 | The Dividend-Price Ratio and Expectations of Future Dividends and Discount Factors (Campbell & Shiller, RFS 1988) | https://www.nber.org/system/files/working_papers/w2100/w2100.pdf
+2026-11-10 | Implications of Security Market Data for Models of Dynamic Economies (Hansen & Jagannathan, JPE 1991) | https://econpapers.repec.org/RePEc:ucp:jpolec:v:99:y:1991:i:2:p:225-62
+2026-11-10 | Substitution, Risk Aversion, and the Temporal Behavior of Consumption and Asset Returns (Epstein & Zin, Econometrica 1989) | https://econpapers.repec.org/RePEc:ecm:emetrp:v:57:y:1989:i:4:p:937-69
+2026-11-10 | The Equity Premium Puzzle and the Risk-Free Rate Puzzle (Weil, JME 1989) | nyu pdf
+2026-11-10 | By Force of Habit (Campbell & Cochrane, JPE 1999) | https://www.bauer.uh.edu/rsusmel/phd/campbell-cochrane_1999JPE.pdf
+2026-11-10 | Risks for the Long Run (Bansal & Yaron, JF 2004) | scholar
+2026-11-10 | The Long-Run Risks Model and Aggregate Asset Prices: An Empirical Assessment (Beeler & Campbell, CFR 2012) | https://nber.org/papers/w14788
+2026-11-10 | Valuation Risk Revalued (de Groot, Richter & Throckmorton, QE 2022) | econometricsociety pdf
