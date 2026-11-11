@@ -750,3 +750,13 @@
 2026-11-10 | Risks for the Long Run (Bansal & Yaron, JF 2004) | scholar
 2026-11-10 | The Long-Run Risks Model and Aggregate Asset Prices: An Empirical Assessment (Beeler & Campbell, CFR 2012) | https://nber.org/papers/w14788
 2026-11-10 | Valuation Risk Revalued (de Groot, Richter & Throckmorton, QE 2022) | econometricsociety pdf
+2026-11-11 | Bank Runs, Deposit Insurance, and Liquidity (Diamond & Dybvig, JPE 1983) | uchicago pdf
+2026-11-11 | Implementing Efficient Allocations in a Model of Financial Intermediation (Green & Lin, Minneapolis Fed QR 2000) | https://www.minneapolisfed.org/research/qr/qr2412.pdf
+2026-11-11 | Securitized Banking and the Run on Repo (Gorton & Metrick, JFE 2012) | https://nber.org/papers/w15223
+2026-11-11 | The Evolution of a Financial Crisis: Collapse of the ABCP Market (Covitz, Liang & Suarez, JF 2013) | https://www.johnhcochrane.com/s/Covitz_etal_asset-backed_run.pdf
+2026-11-11 | Runs on Money Market Mutual Funds (Schmidt, Timmermann & Wermers, AER 2016) | https://repec.cepr.org/repec/cpr/ceprdp/DP9906.pdf
+2026-11-11 | Payoff Complementarities and Financial Fragility (Chen, Goldstein & Jiang, JFE 2010) | wharton pdf
+2026-11-11 | Investor Flows and Fragility in Corporate Bond Funds (Goldstein, Jiang & Ng, JFE 2017) | wharton pdf
+2026-11-11 | When Selling Becomes Viral (Haddad, Moreira & Muir, RFS 2021) | https://www.nber.org/papers/w27168.pdf
+2026-11-11 | Financial Fragility in the COVID-19 Crisis: Investment Funds (Falato, Goldstein & Hortacsu, JME 2021) | wharton pdf
+2026-11-11 | Mutual Fund Liquidity Transformation and Reverse Flight to Liquidity (Ma, Xiao & Zeng, RFS 2022) | wharton pdf
