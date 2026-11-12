@@ -760,3 +760,13 @@
 2026-11-11 | When Selling Becomes Viral (Haddad, Moreira & Muir, RFS 2021) | https://www.nber.org/papers/w27168.pdf
 2026-11-11 | Financial Fragility in the COVID-19 Crisis: Investment Funds (Falato, Goldstein & Hortacsu, JME 2021) | wharton pdf
 2026-11-11 | Mutual Fund Liquidity Transformation and Reverse Flight to Liquidity (Ma, Xiao & Zeng, RFS 2022) | wharton pdf
+2026-11-12 | Endogenous Steroids and Financial Risk Taking on a London Trading Floor (Coates & Herbert, PNAS 2008) | https://pmc.ncbi.nlm.nih.gov/articles/PMC2329689
+2026-11-12 | Second-to-Fourth Digit Ratio Predicts Success among High-Frequency Traders (Coates, Gurnell & Rustichini, PNAS 2009) | scholar
+2026-11-12 | Cortisol Shifts Financial Risk Preferences (Kandasamy et al., PNAS 2014) | https://oro.open.ac.uk/40447
+2026-11-12 | Cortisol and Testosterone Increase Financial Risk Taking (Cueva et al., Sci Rep 2015) | imperial spiral
+2026-11-12 | The Psychophysiology of Real-Time Financial Risk Processing (Lo & Repin, JCN 2002) | https://www.nber.org/papers/w8508.pdf
+2026-11-12 | Fear and Greed in Financial Markets: A Clinical Study of Day-Traders (Lo, Repin & Steenbarger, AER 2005) | https://www.cis.upenn.edu/~mkearns/finread/lo-behavioral.pdf
+2026-11-12 | The Neural Basis of Financial Risk Taking (Kuhnen & Knutson, Neuron 2005) | econwpa pdf
+2026-11-12 | Irrational Exuberance and Neural Crash Warning Signals (Smith et al., PNAS 2014) | https://alecsmith.github.io/publications/smith2014irrational.pdf
+2026-11-12 | Trading on Illusions (Fenton-O'Creevy et al., JOOP 2003) | https://oro.open.ac.uk/1317
+2026-11-12 | The Psychology and Neuroscience of Financial Decision Making (Frydman & Camerer, TiCS 2016) | caltech record
