@@ -770,3 +770,13 @@
 2026-11-12 | Irrational Exuberance and Neural Crash Warning Signals (Smith et al., PNAS 2014) | https://alecsmith.github.io/publications/smith2014irrational.pdf
 2026-11-12 | Trading on Illusions (Fenton-O'Creevy et al., JOOP 2003) | https://oro.open.ac.uk/1317
 2026-11-12 | The Psychology and Neuroscience of Financial Decision Making (Frydman & Camerer, TiCS 2016) | caltech record
+2026-11-13 | Explaining the Recent Failure of Value Investing (Lev & Srivastava, CFR 2022) | https://cfr.ivo-welch.info/published/papers/lev2021explaining.pdf
+2026-11-13 | Is (Systematic) Value Investing Dead? (Israel, Laursen & Richardson, JPM 2020) | aqr pdf
+2026-11-13 | Reports of Value's Death May Be Greatly Exaggerated (Arnott, Harvey, Kalesnik & Linnainmaa, FAJ 2021) | https://ideas.repec.org/a/taf/ufajxx/v77y2021i1p44-67.html
+2026-11-13 | Intangible Capital and the Investment-q Relation (Peters & Taylor, JFE 2017) | wharton page
+2026-11-13 | Intangible Value (Eisfeldt, Kim & Papanikolaou, CFR 2022) | https://cfr.ivo-welch.info/published/papers/eisfeldt2021intangible.pdf
+2026-11-13 | Organization Capital and the Cross-Section of Expected Returns (Eisfeldt & Papanikolaou, JF 2013) | https://econpapers.repec.org/RePEc:bla:jfinan:v:68:y:2013:i:4:p:1365-1406
+2026-11-13 | The Devil in HML's Details (Asness & Frazzini, JPM 2013) | https://stoxray.com/docs/Asness_Frazzini_AdjustHML.pdf
+2026-11-13 | Where Is the Risk in Value? (Golubov & Konstantinidi, JF 2019) | city pdf
+2026-11-13 | Valuation Waves and Merger Activity (Rhodes-Kropf, Robinson & Viswanathan, JFE 2005) | scholar
+2026-11-13 | The Fundamental-to-Market Ratio and the Value Premium Decline (Goncalves & Leonard, JFE 2023) | https://ideas.repec.org/a/eee/jfinec/v147y2023i2p382-405.html
