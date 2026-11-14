@@ -780,3 +780,13 @@
 2026-11-13 | Where Is the Risk in Value? (Golubov & Konstantinidi, JF 2019) | city pdf
 2026-11-13 | Valuation Waves and Merger Activity (Rhodes-Kropf, Robinson & Viswanathan, JFE 2005) | scholar
 2026-11-13 | The Fundamental-to-Market Ratio and the Value Premium Decline (Goncalves & Leonard, JFE 2023) | https://ideas.repec.org/a/eee/jfinec/v147y2023i2p382-405.html
+2026-11-14 | Understanding the Nature of the Risks and the Source of the Rewards to Momentum Investing (Grundy & Martin, RFS 2001) | https://ideas.repec.org/a/oup/rfinst/v14y2001i1p29-78.html
+2026-11-14 | Momentum and Autocorrelation in Stock Returns (Lewellen, RFS 2002) | https://ideas.repec.org/a/oup/rfinst/v15y2002i2p533-564.html
+2026-11-14 | Style Investing (Barberis & Shleifer, JFE 2003) | https://nicholasbarberis.github.io/jfe_final.pdf
+2026-11-14 | Factor Momentum Everywhere (Gupta & Kelly, JPM 2019) | https://www.aqr.com/-/media/AQR/Documents/Insights/Journal-Article/Factor-Momentum-Everywhere-JPM-Quant-19.pdf
+2026-11-14 | Factor Momentum and the Momentum Factor (Ehsani & Linnainmaa, JF 2022) | https://www.nber.org/papers/w25551
+2026-11-14 | Factor Momentum (Arnott, Kalesnik & Linnainmaa, RFS 2023) | https://ideas.repec.org/a/oup/rfinst/v36y2023i8p3034-3070.html
+2026-11-14 | Is Factor Momentum More than Stock Momentum? (Falck, Rej & Thesmar) | https://arxiv.org/pdf/2009.04824
+2026-11-14 | Return Seasonalities (Keloharju, Linnainmaa & Nyberg, JF 2016) | https://www.nber.org/papers/w20815
+2026-11-14 | Are Return Seasonalities Due to Risk or Mispricing? (Keloharju, Linnainmaa & Nyberg, JFE 2021) | https://ideas.repec.org/a/eee/jfinec/v139y2021i1p138-161.html
+2026-11-14 | Factor Momentum versus Price Momentum: Insights from International Markets (Cakici, Fieberg, Metko & Zaremba, JBF 2024) | scholar
