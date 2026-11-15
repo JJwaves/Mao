@@ -790,3 +790,13 @@
 2026-11-14 | Return Seasonalities (Keloharju, Linnainmaa & Nyberg, JF 2016) | https://www.nber.org/papers/w20815
 2026-11-14 | Are Return Seasonalities Due to Risk or Mispricing? (Keloharju, Linnainmaa & Nyberg, JFE 2021) | https://ideas.repec.org/a/eee/jfinec/v139y2021i1p138-161.html
 2026-11-14 | Factor Momentum versus Price Momentum: Insights from International Markets (Cakici, Fieberg, Metko & Zaremba, JBF 2024) | scholar
+2026-11-15 | Empirical Characteristics of Dynamic Trading Strategies: The Case of Hedge Funds (Fung & Hsieh, RFS 1997) | https://ideas.repec.org/a/oup/rfinst/v10y1997i2p275-302.html
+2026-11-15 | The Risk in Hedge Fund Strategies: Theory and Evidence from Trend Followers (Fung & Hsieh, RFS 2001) | https://www.trendfollowing.com/whitepaper/hsieh_fung_final_paper.pdf
+2026-11-15 | Demystifying Managed Futures (Hurst, Ooi & Pedersen, JIM 2013) | https://papers.ssrn.com/abstract=2333776
+2026-11-15 | Two Centuries of Trend Following (Lemperiere et al., J. Investment Strategies 2014) | https://arxiv.org/pdf/1404.3274
+2026-11-15 | Tail Protection for Long Investors: Trend Convexity at Work (Dao et al., J. Investment Strategies) | https://arxiv.org/pdf/1607.02410
+2026-11-15 | The Best of Strategies for the Worst of Times (Harvey, Hoyle, Rattray, Sargaison, Taylor & van Hemert, JPM 2019) | https://people.duke.edu/~charvey/Research/Published_Papers/P140_The_best_of.pdf
+2026-11-15 | Time Series Momentum: Is It There? (Huang, Li, Wang & Zhou, JFE 2020) | https://core.ac.uk/download/287750773.pdf
+2026-11-15 | Time Series Momentum and Volatility Scaling (Kim, Tse & Wald, JFM 2016) | https://ideas.repec.org/a/eee/finmar/v30y2016icp103-124.html
+2026-11-15 | You Can't Always Trend When You Want (Babu, Hoffman, Levine, Ooi, Schroeder & Stamelos, JPM 2020) | https://www.aqr.com/Insights/Research/White-Papers/You-Cant-Always-Trend-When-You-Want
+2026-11-15 | Is This Time Different? Trend Following and Financial Crises (Hutchinson & O'Brien, JAI 2014) | https://www.ucc.ie/en/media/research/centreforinvestmentresearch/wp/TrendFollowingFeb2014.pdf
