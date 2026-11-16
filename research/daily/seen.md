@@ -800,3 +800,13 @@
 2026-11-15 | Time Series Momentum and Volatility Scaling (Kim, Tse & Wald, JFM 2016) | https://ideas.repec.org/a/eee/finmar/v30y2016icp103-124.html
 2026-11-15 | You Can't Always Trend When You Want (Babu, Hoffman, Levine, Ooi, Schroeder & Stamelos, JPM 2020) | https://www.aqr.com/Insights/Research/White-Papers/You-Cant-Always-Trend-When-You-Want
 2026-11-15 | Is This Time Different? Trend Following and Financial Crises (Hutchinson & O'Brien, JAI 2014) | https://www.ucc.ie/en/media/research/centreforinvestmentresearch/wp/TrendFollowingFeb2014.pdf
+2026-11-16 | Do Demand Curves for Stocks Slope Down? (Shleifer, JF 1986) | https://www.johnhcochrane.com/s/shleifer_demand_curves_jf-pfse.pdf
+2026-11-16 | Price and Volume Effects Associated with Changes in the S&P 500 (Harris & Gurel, JF 1986) | scholar
+2026-11-16 | Demand Curves for Stocks Do Slope Down (Kaul, Mehrotra & Morck, JF 2000) | https://randallmorck.ca/wp-content/uploads/2020/02/69-demand-curves-for-stocks-do-slope-down.pdf
+2026-11-16 | Does Arbitrage Flatten Demand Curves for Stocks? (Wurgler & Zhuravskaya, JB 2002) | https://ideas.repec.org/a/ucp/jnlbus/v75y2002i4p583-608.html
+2026-11-16 | Short- and Long-Term Demand Curves for Stocks (Greenwood, JFE 2005) | https://econpapers.repec.org/RePEc:eee:jfinec:v:75:y:2005:i:3:p:607-649
+2026-11-16 | Regression Discontinuity and the Price Effects of Stock Market Indexing (Chang, Hong & Liskovich, RFS 2015) | https://www.nber.org/papers/w19290
+2026-11-16 | The Index Premium and Its Hidden Cost for Index Funds (Petajisto, JEF 2011) | https://ideas.repec.org/a/eee/empfin/v18y2011i2p271-288.html
+2026-11-16 | Is There a Dark Side to Exchange Traded Funds? (Israeli, Lee & Sridharan, RAST 2017) | https://ideas.repec.org/a/spr/reaccs/v22y2017i3d10.1007_s11142-017-9400-8.html
+2026-11-16 | On Index Investing (Coles, Heath & Ringgenberg, JFE 2022) | https://papers.ssrn.com/abstract=3055324
+2026-11-16 | Benchmarking Intensity (Pavlova & Sikorskaya, RFS 2023) | https://repec.cepr.org/repec/cpr/ceprdp/DP16909.pdf
