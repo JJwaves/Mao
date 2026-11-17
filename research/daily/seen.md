@@ -810,3 +810,13 @@
 2026-11-16 | Is There a Dark Side to Exchange Traded Funds? (Israeli, Lee & Sridharan, RAST 2017) | https://ideas.repec.org/a/spr/reaccs/v22y2017i3d10.1007_s11142-017-9400-8.html
 2026-11-16 | On Index Investing (Coles, Heath & Ringgenberg, JFE 2022) | https://papers.ssrn.com/abstract=3055324
 2026-11-16 | Benchmarking Intensity (Pavlova & Sikorskaya, RFS 2023) | https://repec.cepr.org/repec/cpr/ceprdp/DP16909.pdf
+2026-11-17 | The Long-Run Performance of Initial Public Offerings (Ritter, JF 1991) | scholar
+2026-11-17 | The New Issues Puzzle (Loughran & Ritter, JF 1995) | https://ideas.repec.org/a/bla/jfinan/v50y1995i1p23-51.html
+2026-11-17 | Market Underreaction to Open Market Share Repurchases (Ikenberry, Lakonishok & Vermaelen, JFE 1995) | https://www.nber.org/papers/w4965
+2026-11-17 | The Equity Share in New Issues and Aggregate Stock Returns (Baker & Wurgler, JF 2000) | https://pages.stern.nyu.edu/~jwurgler/papers/equityshare.pdf
+2026-11-17 | Market Efficiency, Long-Term Returns, and Behavioral Finance (Fama, JFE 1998) | scholar
+2026-11-17 | Is the Abnormal Return Following Equity Issuances Anomalous? (Brav, Geczy & Gompers, JFE 2000) | https://repository.upenn.edu/fnce_papers/361
+2026-11-17 | Pseudo Market Timing and the Long-Run Underperformance of IPOs (Schultz, JF 2003) | https://ideas.repec.org/a/bla/jfinan/v58y2003i2p483-517.html
+2026-11-17 | Market Reaction to Tangible and Intangible Information (Daniel & Titman, JF 2006) | scholar
+2026-11-17 | Share Issuance and Cross-Sectional Returns (Pontiff & Woodgate, JF 2008) | https://ideas.repec.org/a/bla/jfinan/v63y2008i2p921-945.html
+2026-11-17 | The Nature and Persistence of Buyback Anomalies (Peyer & Vermaelen, RFS 2009) | https://tevgeniou.github.io/EquityRiskFactors/bibliography/BuybacksPV.pdf
