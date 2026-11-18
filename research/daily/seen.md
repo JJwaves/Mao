@@ -820,3 +820,13 @@
 2026-11-17 | Market Reaction to Tangible and Intangible Information (Daniel & Titman, JF 2006) | scholar
 2026-11-17 | Share Issuance and Cross-Sectional Returns (Pontiff & Woodgate, JF 2008) | https://ideas.repec.org/a/bla/jfinan/v63y2008i2p921-945.html
 2026-11-17 | The Nature and Persistence of Buyback Anomalies (Peyer & Vermaelen, RFS 2009) | https://tevgeniou.github.io/EquityRiskFactors/bibliography/BuybacksPV.pdf
+2026-11-18 | Financial Ratios, Discriminant Analysis and the Prediction of Corporate Bankruptcy (Altman, JF 1968) | scholar
+2026-11-18 | Financial Ratios and the Probabilistic Prediction of Bankruptcy (Ohlson, JAR 1980) | scholar
+2026-11-18 | Forecasting Bankruptcy More Accurately: A Simple Hazard Model (Shumway, JB 2001) | https://scholarsarchive.byu.edu/facpub/9280
+2026-11-18 | Is the Risk of Bankruptcy a Systematic Risk? (Dichev, JF 1998) | scholar
+2026-11-18 | Default Risk in Equity Returns (Vassalou & Xing, JF 2004) | https://users.nber.org/~confer/2003/aps03/vassalou.pdf
+2026-11-18 | Clientele Change, Liquidity Shock, and the Return on Financially Distressed Stocks (Da & Gao, JFQA 2010) | https://www3.nd.edu/~zda/Clientele.pdf
+2026-11-18 | In Search of Distress Risk (Campbell, Hilscher & Szilagyi, JF 2008) | scholar
+2026-11-18 | Financial Distress and the Cross-Section of Equity Returns (Garlappi & Yan, JF 2011) | scholar
+2026-11-18 | Anomalies and Financial Distress (Avramov, Chordia, Jostova & Philipov, JFE 2013) | https://ideas.repec.org/a/eee/jfinec/v108y2013i1p139-159.html
+2026-11-18 | The Distress Anomaly is Deeper than You Think (Avramov, Chordia, Jostova & Philipov, RF 2022) | https://cris.huji.ac.il/en/publications/the-distress-anomaly-is-deeper-than-you-think-evidence-from-stock/
