@@ -830,3 +830,13 @@
 2026-11-18 | Financial Distress and the Cross-Section of Equity Returns (Garlappi & Yan, JF 2011) | scholar
 2026-11-18 | Anomalies and Financial Distress (Avramov, Chordia, Jostova & Philipov, JFE 2013) | https://ideas.repec.org/a/eee/jfinec/v108y2013i1p139-159.html
 2026-11-18 | The Distress Anomaly is Deeper than You Think (Avramov, Chordia, Jostova & Philipov, RF 2022) | https://cris.huji.ac.il/en/publications/the-distress-anomaly-is-deeper-than-you-think-evidence-from-stock/
+2026-11-19 | Forward Exchange Rates as Optimal Predictors of Future Spot Rates (Hansen & Hodrick, JPE 1980) | scholar
+2026-11-19 | Forward and Spot Exchange Rates (Fama, JME 1984) | https://eml.berkeley.edu/~craine/EconH195/Fall_14/webpage/Fama_Forward%20Discount.pdf
+2026-11-19 | The Cross Section of Foreign Currency Risk Premia and Consumption Growth Risk (Lustig & Verdelhan, AER 2007) | https://nber.org/system/files/working_papers/w11104/w11104.pdf
+2026-11-19 | Foreign Currency Risk Premia: Comment & Reply (Burnside; Lustig & Verdelhan, AER 2011) | https://www.nber.org/papers/w13812.pdf
+2026-11-19 | Common Risk Factors in Currency Markets (Lustig, Roussanov & Verdelhan, RFS 2011) | https://dspace.mit.edu/bitstream/1721.1/66103/1/Verdelhan_Common%20Risk.pdf
+2026-11-19 | Carry Trades and Global Foreign Exchange Volatility (Menkhoff, Sarno, Schmeling & Schrimpf, JF 2012) | https://openaccess.city.ac.uk/id/eprint/3391/1/CTVOL_R3_v4_paper.pdf
+2026-11-19 | Do Peso Problems Explain the Returns to the Carry Trade? (Burnside, Eichenbaum, Kleshchelski & Rebelo, RFS 2011) | https://www.nber.org/system/files/working_papers/w14054/w14054.pdf
+2026-11-19 | Crash-Neutral Currency Carry Trades (Jurek, JFE 2014) | https://www.johnhcochrane.com/s/Jurek_currency_new.pdf
+2026-11-19 | Conditional Risk Premia in Currency Markets and Other Asset Classes (Lettau, Maggiori & Weber, JFE 2014) | https://www.aqr.com/-/media/AQR/Documents/AQR-Insight-Award/2013/ConditionalCurrencyRiskPremia_Lettau_Maggiori_Weber.pdf
+2026-11-19 | Forward and Spot Exchange Rates in a Multi-Currency World (Hassan & Mano, NBER w20294/QJE) | https://www.nber.org/system/files/working_papers/w20294/revisions/w20294.rev1.pdf
