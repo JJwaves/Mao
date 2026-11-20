@@ -840,3 +840,13 @@
 2026-11-19 | Crash-Neutral Currency Carry Trades (Jurek, JFE 2014) | https://www.johnhcochrane.com/s/Jurek_currency_new.pdf
 2026-11-19 | Conditional Risk Premia in Currency Markets and Other Asset Classes (Lettau, Maggiori & Weber, JFE 2014) | https://www.aqr.com/-/media/AQR/Documents/AQR-Insight-Award/2013/ConditionalCurrencyRiskPremia_Lettau_Maggiori_Weber.pdf
 2026-11-19 | Forward and Spot Exchange Rates in a Multi-Currency World (Hassan & Mano, NBER w20294/QJE) | https://www.nber.org/system/files/working_papers/w20294/revisions/w20294.rev1.pdf
+2026-11-20 | The Information in Long-Maturity Forward Rates (Fama & Bliss, AER 1987) | scholar
+2026-11-20 | Yield Spreads and Interest Rate Movements: A Bird's Eye View (Campbell & Shiller, REStud 1991) | https://www.nber.org/papers/w3153
+2026-11-20 | Bond Risk Premia (Cochrane & Piazzesi, AER 2005) | https://www.johnhcochrane.com/s/cochrane_piazzesi_bonds_aer.pdf
+2026-11-20 | Macro Factors in Bond Risk Premia (Ludvigson & Ng, RFS 2009) | https://www.nber.org/papers/w11703.pdf
+2026-11-20 | Robust Bond Risk Premia (Bauer & Hamilton, NBER w23480/RFS) | https://www.nber.org/papers/w23480.pdf
+2026-11-20 | Information in (and not in) the Term Structure (Duffee, RFS 2011) | https://ideas.repec.org/a/oup/rfinst/v24y2011i9p2895-2934.html
+2026-11-20 | Expected Returns in Treasury Bonds (Cieslak & Povala, RFS 2015) | scholar
+2026-11-20 | Bond Supply and Excess Bond Returns (Greenwood & Vayanos, RFS 2014) | https://personal.lse.ac.uk/vayanos/Papers/BSEBR_RFS14.pdf
+2026-11-20 | Futures Prices as Risk-Adjusted Forecasts of Monetary Policy (Piazzesi & Swanson, JME 2008) | https://web.stanford.edu/~piazzesi/fff.pdf
+2026-11-20 | The U.S. Treasury Yield Curve: 1961 to the Present (Gurkaynak, Sack & Wright, JME 2007) | https://www.federalreserve.gov/pubs/feds/2006/200628/200628pap.pdf
