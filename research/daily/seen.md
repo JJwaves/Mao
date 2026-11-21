@@ -850,3 +850,13 @@
 2026-11-20 | Bond Supply and Excess Bond Returns (Greenwood & Vayanos, RFS 2014) | https://personal.lse.ac.uk/vayanos/Papers/BSEBR_RFS14.pdf
 2026-11-20 | Futures Prices as Risk-Adjusted Forecasts of Monetary Policy (Piazzesi & Swanson, JME 2008) | https://web.stanford.edu/~piazzesi/fff.pdf
 2026-11-20 | The U.S. Treasury Yield Curve: 1961 to the Present (Gurkaynak, Sack & Wright, JME 2007) | https://www.federalreserve.gov/pubs/feds/2006/200628/200628pap.pdf
+2026-11-21 | Further Evidence on Investor Overreaction and Stock Market Seasonality (De Bondt & Thaler, JF 1987) | https://ideas.repec.org/a/bla/jfinan/v42y1987i3p557-81.html
+2026-11-21 | Contrarian Investment, Extrapolation, and Risk (Lakonishok, Shleifer & Vishny, JF 1994) | https://www.nber.org/papers/w4360
+2026-11-21 | Multifactor Explanations of Asset Pricing Anomalies (Fama & French, JF 1996) | https://ideas.repec.org/a/bla/jfinan/v51y1996i1p55-84.html
+2026-11-21 | Expectations and the Cross-Section of Stock Returns (La Porta, JF 1996) | scholar
+2026-11-21 | Good News for Value Stocks (La Porta, Lakonishok, Shleifer & Vishny, JF 1997) | https://www.nber.org/papers/w5311
+2026-11-21 | Returns to Contrarian Investment Strategies (Dechow & Sloan, JFE 1997) | https://ideas.repec.org/a/eee/jfinec/v43y1997i1p3-27.html
+2026-11-21 | Accounting Valuation, Market Expectation, and Cross-Sectional Stock Returns (Frankel & Lee, JAE 1998) | https://ideas.repec.org/a/eee/jaecon/v25y1998i3p283-319.html
+2026-11-21 | Value Investing: The Use of Historical Financial Statement Information (Piotroski, JAR 2000) | https://tevgeniou.github.io/EquityRiskFactors/bibliography/ValueInvestingReview.pdf
+2026-11-21 | Earnings Surprises, Growth Expectations, and Stock Returns / Earnings Torpedo (Skinner & Sloan, RAST 2002) | https://ideas.repec.org/a/spr/reaccs/v7y2002i2d10.1023_a1020294523516.html
+2026-11-21 | Diagnostic Expectations and Stock Returns (Bordalo, Gennaioli, La Porta & Shleifer, JF 2019) | https://www.nber.org/papers/w23863
