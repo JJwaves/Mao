@@ -860,3 +860,13 @@
 2026-11-21 | Value Investing: The Use of Historical Financial Statement Information (Piotroski, JAR 2000) | https://tevgeniou.github.io/EquityRiskFactors/bibliography/ValueInvestingReview.pdf
 2026-11-21 | Earnings Surprises, Growth Expectations, and Stock Returns / Earnings Torpedo (Skinner & Sloan, RAST 2002) | https://ideas.repec.org/a/spr/reaccs/v7y2002i2d10.1023_a1020294523516.html
 2026-11-21 | Diagnostic Expectations and Stock Returns (Bordalo, Gennaioli, La Porta & Shleifer, JF 2019) | https://www.nber.org/papers/w23863
+2026-11-22 | Inflation, Rational Valuation and the Market (Modigliani & Cohn, FAJ 1979) | https://rpc.cfainstitute.org/research/financial-analysts-journal/1979/inflation-rational-valuation-and-the-market
+2026-11-22 | What Moves the Stock and Bond Markets? (Campbell & Ammer, JF 1993) | https://www.nber.org/papers/w3760
+2026-11-22 | Stock Market Uncertainty and the Stock-Bond Return Relation (Connolly, Stivers & Sun, JFQA 2005) | https://ideas.repec.org/a/cup/jfinqa/v40y2005i01p161-194_00.html
+2026-11-22 | Flight to Quality, Flight to Liquidity, and the Pricing of Risk (Vayanos, NBER w10327) | https://www.nber.org/papers/w10327
+2026-11-22 | The Determinants of Stock and Bond Return Comovements (Baele, Bekaert & Inghelbrecht, RFS 2010) | https://business.columbia.edu/sites/default/files-efs/imce-uploads/gbekaert/papers/Determinants.pdf
+2026-11-22 | What Ties Return Volatilities to Price Valuations and Fundamentals? (David & Veronesi, JPE 2013) | https://www.nber.org/papers/w15563
+2026-11-22 | Inflation Bets or Deflation Hedges? (Campbell, Sunderam & Viceira, CFR 2017) | https://www.nber.org/papers/w14701
+2026-11-22 | Macroeconomic Drivers of Bond and Equity Risks (Campbell, Pflueger & Viceira, JPE 2020) | https://scholar.harvard.edu/sites/scholar.harvard.edu/files/lviceira/files/campbellpfluegerviceira_jpe2020.pdf
+2026-11-22 | Fight the Fed Model (Asness, JPM 2003) | https://www.aqr.com/Insights/Research/Journal-Article/Fight-the-Fed-Model
+2026-11-22 | A Changing Stock-Bond Correlation (AQR, JPM) | https://www.aqr.com/-/media/AQR/Documents/Alternative-Thinking/A-Changing-Stock-Bond-Correlation_JPM.pdf
