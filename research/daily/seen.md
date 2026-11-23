@@ -870,3 +870,13 @@
 2026-11-22 | Macroeconomic Drivers of Bond and Equity Risks (Campbell, Pflueger & Viceira, JPE 2020) | https://scholar.harvard.edu/sites/scholar.harvard.edu/files/lviceira/files/campbellpfluegerviceira_jpe2020.pdf
 2026-11-22 | Fight the Fed Model (Asness, JPM 2003) | https://www.aqr.com/Insights/Research/Journal-Article/Fight-the-Fed-Model
 2026-11-22 | A Changing Stock-Bond Correlation (AQR, JPM) | https://www.aqr.com/-/media/AQR/Documents/Alternative-Thinking/A-Changing-Stock-Bond-Correlation_JPM.pdf
+2026-11-23 | Comparing Predictive Accuracy (Diebold & Mariano, JBES 1995) | scholar
+2026-11-23 | Asymptotic Inference about Predictive Ability (West, Econometrica 1996) | scholar
+2026-11-23 | Tests of Equal Forecast Accuracy and Encompassing for Nested Models (Clark & McCracken, JoE 2001) | scholar
+2026-11-23 | Approximately Normal Tests for Equal Predictive Accuracy in Nested Models (Clark & West, JoE 2007) | https://www.nber.org/papers/t0326
+2026-11-23 | In-Sample or Out-of-Sample Tests of Predictability (Inoue & Kilian, ER 2005) | https://ideas.repec.org/a/taf/emetrv/v23y2005i4p371-402.html
+2026-11-23 | Forecast Combinations (Timmermann, Handbook of Economic Forecasting 2006) | https://ideas.repec.org/h/eee/ecofch/1-04.html
+2026-11-23 | Out-of-Sample Equity Premium Prediction: Combination Forecasts (Rapach, Strauss & Zhou, RFS 2010) | https://files.stlouisfed.org/files/htdocs/wp/2010/2010-008.pdf
+2026-11-23 | Forecasting the Equity Risk Premium: The Role of Technical Indicators (Neely, Rapach, Tu & Zhou, MS 2014) | https://bashtage.github.io/kevinsheppard.com/files/teaching/mfe/advanced-econometrics/Neely_Rapach_Tu_Zhou.pdf
+2026-11-23 | Forecasting Stock Returns under Economic Constraints (Pettenuzzo, Timmermann & Valkanov, JFE 2014) | https://repec.cepr.org/repec/cpr/ceprdp/DP9377.pdf
+2026-11-23 | What Is the Expected Return on the Market? (Martin, QJE 2017) | https://www.fmg.ac.uk/sites/default/files/publications/DP750.pdf
