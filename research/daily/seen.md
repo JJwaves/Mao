@@ -880,3 +880,13 @@
 2026-11-23 | Forecasting the Equity Risk Premium: The Role of Technical Indicators (Neely, Rapach, Tu & Zhou, MS 2014) | https://bashtage.github.io/kevinsheppard.com/files/teaching/mfe/advanced-econometrics/Neely_Rapach_Tu_Zhou.pdf
 2026-11-23 | Forecasting Stock Returns under Economic Constraints (Pettenuzzo, Timmermann & Valkanov, JFE 2014) | https://repec.cepr.org/repec/cpr/ceprdp/DP9377.pdf
 2026-11-23 | What Is the Expected Return on the Market? (Martin, QJE 2017) | https://www.fmg.ac.uk/sites/default/files/publications/DP750.pdf
+2026-11-24 | Expected Option Returns (Coval & Shumway, JF 2001) | https://scholarsarchive.byu.edu/facpub/9281
+2026-11-24 | Delta-Hedged Gains and the Negative Market Volatility Risk Premium (Bakshi & Kapadia, RFS 2003) | https://ideas.repec.org/a/oup/rfinst/v16y2003i2p527-566.html
+2026-11-24 | Why Are Put Options So Expensive? (Bondarenko, QJF 2014) | scholar
+2026-11-24 | Does Net Buying Pressure Affect the Shape of Implied Volatility Functions? (Bollen & Whaley, JF 2004) | scholar
+2026-11-24 | Demand-Based Option Pricing (Garleanu, Pedersen & Poteshman, RFS 2009) | https://www.nber.org/papers/w11843
+2026-11-24 | Understanding Index Option Returns (Broadie, Chernov & Johannes, RFS 2009) | https://papers.ssrn.com/abstract=965739
+2026-11-24 | The Puzzle of Index Option Returns (Constantinides, Jackwerth & Savov, WP) | https://kops.uni-konstanz.de/entities/publication/02d5061a-4d95-4381-8d7f-6104621d086d
+2026-11-24 | Cross-Section of Option Returns and Volatility (Goyal & Saretto, JFE 2009) | scholar
+2026-11-24 | Illiquidity Premia in the Equity Options Market (Christoffersen, Goyenko, Jacobs & Karoui, RFS 2018) | https://repec.econ.au.dk/repec/creates/rp/13/rp13_48.pdf
+2026-11-24 | Embedded Leverage (Frazzini & Pedersen, RAPS 2022) | https://nber.org/system/files/working_papers/w18558/w18558.pdf
