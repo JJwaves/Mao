@@ -890,3 +890,13 @@
 2026-11-24 | Cross-Section of Option Returns and Volatility (Goyal & Saretto, JFE 2009) | scholar
 2026-11-24 | Illiquidity Premia in the Equity Options Market (Christoffersen, Goyenko, Jacobs & Karoui, RFS 2018) | https://repec.econ.au.dk/repec/creates/rp/13/rp13_48.pdf
 2026-11-24 | Embedded Leverage (Frazzini & Pedersen, RAPS 2022) | https://nber.org/system/files/working_papers/w18558/w18558.pdf
+2026-11-25 | VIX Futures (Zhang & Zhu, JFM 2006) | https://ideas.repec.org/a/wly/jfutmk/v26y2006i6p521-531.html
+2026-11-25 | The Term Structure of Variance Swap Rates and Optimal Variance Swap Investments (Egloff, Leippold & Wu, JFQA 2010) | https://ideas.repec.org/a/cup/jfinqa/v45y2010i05p1279-1310_00.html
+2026-11-25 | Risk Premia and the VIX Term Structure (Johnson, JFQA 2017) | https://www.bauer.uh.edu/departments/finance/documents/seminars/Johnson_020712.pdf
+2026-11-25 | The Price of Variance Risk (Dew-Becker, Giglio, Le & Rodriguez, JFE 2017) | https://www.nber.org/papers/w21182
+2026-11-25 | The VIX Premium (Cheng, RFS 2019) | scholar
+2026-11-25 | The Term Structure of Equity and Variance Risk Premia (Ait-Sahalia, Karaman & Mancini, JoE 2020) | https://ideas.repec.org/a/eee/econom/v219y2020i2p204-230.html
+2026-11-25 | Inferring Volatility Dynamics and Risk Premia from the S&P 500 and VIX Markets (Bardgett, Gourier & Leippold, JFE 2019) | https://ideas.repec.org/a/eee/jfinec/v131y2019i3p593-618.html
+2026-11-25 | Equity Volatility Term Premia (Van Tassel, NY Fed sr867) | https://www.newyorkfed.org/medialibrary/media/research/staff_reports/sr867.pdf
+2026-11-25 | Global Variance Term Premia and Intermediary Risk Appetite (Van Tassel & Vogt, NY Fed sr789) | https://www.newyorkfed.org/medialibrary/media/research/staff_reports/sr789.pdf
+2026-11-25 | Trading Volatility: At What Cost? (Whaley, JPM 2013) | https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2261387
