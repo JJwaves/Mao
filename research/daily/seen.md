@@ -900,3 +900,13 @@
 2026-11-25 | Equity Volatility Term Premia (Van Tassel, NY Fed sr867) | https://www.newyorkfed.org/medialibrary/media/research/staff_reports/sr867.pdf
 2026-11-25 | Global Variance Term Premia and Intermediary Risk Appetite (Van Tassel & Vogt, NY Fed sr789) | https://www.newyorkfed.org/medialibrary/media/research/staff_reports/sr789.pdf
 2026-11-25 | Trading Volatility: At What Cost? (Whaley, JPM 2013) | https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2261387
+2026-11-26 | Measuring Mutual Fund Performance with Characteristic-Based Benchmarks (Daniel, Grinblatt, Titman & Wermers, JF 1997) | https://ideas.repec.org/a/bla/jfinan/v52y1997i3p1035-58.html
+2026-11-26 | Costly Search and Mutual Fund Flows (Sirri & Tufano, JF 1998) | https://faculty.babson.edu/wp-content/uploads/2024/01/mutual-funds-JF-october-1998.pdf
+2026-11-26 | Mutual Fund Performance: An Empirical Decomposition (Wermers, JF 2000) | https://terpconnect.umd.edu/~wermers/mutuals.pdf
+2026-11-26 | Mutual Fund Flows and Performance in Rational Markets (Berk & Green, JPE 2004) | https://www.nber.org/papers/w9275
+2026-11-26 | Can Mutual Fund Stars Really Pick Stocks? (Kosowski, Timmermann, Wermers & White, JF 2006) | https://www.cfr-cologne.de/download/workingpaper/cfr-05-14.pdf
+2026-11-26 | Luck versus Skill in the Cross-Section of Mutual Fund Returns (Fama & French, JF 2010) | https://mba.tuck.dartmouth.edu/bespeneckbo/default/AFA611-Eckbo%20web%20site/AFA611-S8C-FamaFrench-LuckvSkill-JF10.pdf
+2026-11-26 | How Active Is Your Fund Manager? (Cremers & Petajisto, RFS 2009) | https://depot.som.yale.edu/icf/papers/fileuploads/2370/original/06-14.pdf
+2026-11-26 | Scale and Skill in Active Management (Pastor, Stambaugh & Taylor, JFE 2015) | https://www.nber.org/papers/w19891
+2026-11-26 | Measuring Skill in the Mutual Fund Industry (Berk & van Binsbergen, JFE 2015) | https://www.aqr.com/-/media/AQR/Documents/AQR-Insight-Award/2013/MeasuringManagerialSkill_Berk_Binsbergen.pdf
+2026-11-26 | A Flow-Based Explanation for Return Predictability (Lou, RFS 2012) | https://researchonline.lse.ac.uk/id/eprint/46328
