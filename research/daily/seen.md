@@ -910,3 +910,13 @@
 2026-11-26 | Scale and Skill in Active Management (Pastor, Stambaugh & Taylor, JFE 2015) | https://www.nber.org/papers/w19891
 2026-11-26 | Measuring Skill in the Mutual Fund Industry (Berk & van Binsbergen, JFE 2015) | https://www.aqr.com/-/media/AQR/Documents/AQR-Insight-Award/2013/MeasuringManagerialSkill_Berk_Binsbergen.pdf
 2026-11-26 | A Flow-Based Explanation for Return Predictability (Lou, RFS 2012) | https://researchonline.lse.ac.uk/id/eprint/46328
+2026-11-27 | Contagious Speculation and a Cure for Cancer (Huberman & Regev, JF 2001) | https://business.columbia.edu/faculty/research/contagious-speculation-and-cure-cancer-non-event-made-stock-prices-soar
+2026-11-27 | Stock Price Reaction to News and No-News (Chan, JFE 2003) | https://ideas.repec.org/a/eee/jfinec/v70y2003i2p223-260.html
+2026-11-27 | More Than Words: Quantifying Language to Measure Firms' Fundamentals (Tetlock, Saar-Tsechansky & Macskassy, JF 2008) | https://ideas.repec.org/a/bla/jfinan/v63y2008i3p1437-1467.html
+2026-11-27 | All That Glitters (Barber & Odean, RFS 2008) | https://ideas.repec.org/a/oup/rfinst/v21y2008i2p785-818.html
+2026-11-27 | Media Coverage and the Cross-Section of Stock Returns (Fang & Peress, JF 2009) | https://www.insead.edu/sites/insead/files/assets/faculty-personal-site/lily-hua-fang/documents/media-coverage-and-the-cross-section-of-stock-returns.pdf
+2026-11-27 | The Causal Impact of Media in Financial Markets (Engelberg & Parsons, JF 2011) | https://conference.nber.org/confer/2009/BEF09/Engelberg_Parsons.pdf
+2026-11-27 | Journalists and the Stock Market (Dougal, Engelberg, Garcia & Parsons, RFS 2012) | https://leeds-faculty.colorado.edu/garcia/paper86v12.pdf
+2026-11-27 | Don't Believe the Hype (Gurun & Butler, JF 2012) | https://ideas.repec.org/a/bla/jfinan/v67y2012i2p561-598.html
+2026-11-27 | Selective Publicity and Stock Prices (Solomon, JF 2012) | https://ideas.repec.org/a/bla/jfinan/v67y2012i2p599-638.html
+2026-11-27 | The Media and the Diffusion of Information: Newspaper Strikes (Peress, JF 2014) | https://repec.cepr.org/repec/cpr/ceprdp/DP9653.pdf
