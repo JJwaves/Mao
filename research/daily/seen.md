@@ -920,3 +920,14 @@
 2026-11-27 | Don't Believe the Hype (Gurun & Butler, JF 2012) | https://ideas.repec.org/a/bla/jfinan/v67y2012i2p561-598.html
 2026-11-27 | Selective Publicity and Stock Prices (Solomon, JF 2012) | https://ideas.repec.org/a/bla/jfinan/v67y2012i2p599-638.html
 2026-11-27 | The Media and the Diffusion of Information: Newspaper Strikes (Peress, JF 2014) | https://repec.cepr.org/repec/cpr/ceprdp/DP9653.pdf
+2026-11-28 | Survivorship Bias in Performance Studies (Brown, Goetzmann, Ibbotson & Ross, RFS 1992) | https://ideas.repec.org/a/oup/rfinst/v5y1992i4p553-80.html
+2026-11-28 | The Cross-Section of Realized Stock Returns: The Pre-COMPUSTAT Evidence (Davis, JF 1994) | https://ideas.repec.org/a/bla/jfinan/v49y1994i5p1579-93.html
+2026-11-28 | Another Look at the Cross-Section of Expected Stock Returns (Kothari, Shanken & Sloan, JF 1995) | https://ideas.repec.org/a/bla/jfinan/v50y1995i1p185-224.html
+2026-11-28 | Evaluating the Performance of Value versus Glamour Stocks: Selection Bias (Chan, Jegadeesh & Lakonishok, JFE 1995) | https://ideas.repec.org/a/eee/jfinec/v38y1995i3p269-296.html
+2026-11-28 | Returns from Investing in Equity Mutual Funds 1971 to 1991 (Malkiel, JF 1995) | https://ideas.repec.org/a/bla/jfinan/v50y1995i2p549-72.html
+2026-11-28 | The Delisting Bias in CRSP Data (Shumway, JF 1997) | https://scholarsarchive.byu.edu/facpub/9278
+2026-11-28 | The Delisting Bias in CRSP's Nasdaq Data and the Size Effect (Shumway & Warther, JF 1999) | https://scholarsarchive.byu.edu/facpub/9279
+2026-11-28 | Global Stock Markets in the Twentieth Century (Jorion & Goetzmann, JF 1999) | https://www.nber.org/papers/w5901
+2026-11-28 | Mutual Fund Survivorship (Carhart, Carpenter, Lynch & Musto, RFS 2002) | https://pages.stern.nyu.edu/~jcarpen0/pdfs/CarhartCarpenterLynchMusto.pdf
+2026-11-28 | Irrational Optimism (Dimson, Marsh & Staunton, FAJ 2004) | https://rpc.cfainstitute.org/research/financial-analysts-journal/2004/irrational-optimism
+2026-11-28 | VST: Verifiable Structured Transport for Auditable Agent-to-Agent Alpha Discovery | https://arxiv.org/pdf/2609.07065
